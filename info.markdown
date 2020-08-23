@@ -10,4 +10,3 @@ Dit jaar ben ik 20 jaar actief op het gebied van maritiem fotograaf, illustrator
 
 Momenteel zijn mijn activiteiten te volgen op [Facebook](https://www.facebook.com/onno.heesbeen){:target="_blank"}
 
-En ben ik bereikbaar via: <onnoheesbeen@gmail.com>
