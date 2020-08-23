@@ -24,14 +24,14 @@
   }
 
   .site-logo {
-    max-width: 401px;
+    max-width: 300px;
   }
 }
 
 .site-nav {
   float: right;
   *line-height: $base-line-height * $base-font-size * 2.25;
-  line-height: 90px;
+  line-height: 60px;
 
   .nav-trigger {
       display: none;
