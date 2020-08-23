@@ -24,13 +24,14 @@ facebook_username: onno.heesbeen
 description: >- # this means to ignore newlines until "baseurl:"
   Onnozone is de creatieve makerspace van Onno Heesbeen © 2020
 # baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://onnozone.nl" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll_picture_tag
+  - jekyll-sitemap
 
 show_excerpts: true
 excerpt_separator: <!--more-->
