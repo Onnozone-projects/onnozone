@@ -37,7 +37,7 @@ excerpt_separator: <!--more-->
 
 future: true
 
-# google_analytics: UA-123
+google_analytics: UA-176126375-1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
