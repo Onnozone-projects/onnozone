@@ -4,9 +4,10 @@ title: Info
 permalink: /info/
 ---
 
-Onnozone is de creatieve makerspace van Onno Heesbeen.
+Onnozone is the creative makerspace of Onno Heesbeen.
 
-Dit jaar ben ik 20 jaar actief op het gebied van maritiem fotograaf, illustrator, conceptueel design en modelbouw. Om dit te vieren ondergaat de website een transformatie naar een online magazine, zodat het delen van projecten, nieuwe artikeltjes en content een stuk eenvoudiger wordt. 
+This year I have been active for 20 years in the field of maritime photography, illustration, conceptual design and modeling.
+To celebrate this, the website is undergoing a transformation into an online magazine, so that sharing projects, new articles and content becomes a lot easier.
 
-Momenteel zijn mijn activiteiten te volgen op [Facebook](https://www.facebook.com/Onnozone-113172183839158){:target="_blank"} en [YouTube](https://www.youtube.com/channel/UCIe_v09FFodVGK34RnATljA){:target="_blank"}
+Currently my activities can be followed at [Facebook](https://www.facebook.com/Onnozone-113172183839158){:target="_blank"} and [YouTube](https://www.youtube.com/channel/UCIe_v09FFodVGK34RnATljA){:target="_blank"}
 
