@@ -224,7 +224,7 @@
       display: inline-block;
       width: 100%;
       text-align: right;
-    }
+     }
   }
 
   @include media-query($on-laptop) {
@@ -251,7 +251,6 @@
   display: block;
   @include relative-font-size(1.5);
   color: $brand_color;
-
 }
 
 
