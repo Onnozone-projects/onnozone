@@ -252,14 +252,3 @@ table {
     border: 1px solid $grey-color-light;
   }
 }
-
-
-html {
-  box-sizing: border-box;
-}
-
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
-}
