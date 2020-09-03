@@ -189,7 +189,7 @@
  * Page content
  */
 .page-content {
-  *padding: $spacing-unit 0;
+  padding: $spacing-unit 0;
   flex: 1;
 }
 
@@ -204,9 +204,41 @@
 .post-list {
   margin-left: 0;
   list-style: none;
+  text-align: center;
 
-  > li {
+  > .post-list-item {
     margin-bottom: $spacing-unit;
+    display: inline-block;
+    vertical-align:top;
+    width: 33%;
+    max-width: 300px;
+    padding: $spacing-unit / 2;
+    box-sizing: border-box;
+    text-align: initial;
+    
+    p {
+      color: $text-color;
+    }
+
+    .more {
+      display: inline-block;
+      width: 100%;
+      text-align: right;
+    }
+  }
+
+  @include media-query($on-laptop) {
+    > .post-list-item {
+      width: 50%;
+      max-width: none;
+    }  
+  }
+
+  @include media-query($on-palm) {
+    > .post-list-item {
+      width: 100%;
+      max-width: none;
+    }  
   }
 }
 
@@ -218,6 +250,8 @@
 .post-link {
   display: block;
   @include relative-font-size(1.5);
+  color: $brand_color;
+
 }
 
 
