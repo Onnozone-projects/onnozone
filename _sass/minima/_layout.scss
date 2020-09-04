@@ -266,6 +266,13 @@
 /**
  * Posts
  */
+
+.post {
+  max-width: $content-width-laptop;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .post-header {
   margin-top: $spacing-unit;
   margin-bottom: $spacing-unit;
