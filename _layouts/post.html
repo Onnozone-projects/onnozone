@@ -16,7 +16,11 @@ layout: default
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    {%- if page.excerpt == content -%}
     {{ content }}
+    {%- else -%}
+    {{ content | remove_first:page.excerpt }}
+    {%- endif -%}
   </div>
 
   {%- if site.disqus.shortname -%}
