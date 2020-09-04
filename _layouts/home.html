@@ -22,7 +22,9 @@ layout: default
           {%- if site.show_excerpts -%}
           {{ post.excerpt }}
           {%- endif -%}
+          {%- if post.excerpt != post.content -%}
           <div class="more">Read more...</div>
+          {%- endif -%}
         </a>
       </li>
       {%- endfor -%}
