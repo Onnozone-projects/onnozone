@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Cruise ships laid up"
+date:   2020-08-04 21:50
+categories: [Videos, Ships]
+tags: [Ships]
+---
+{% picture assets/images/at_anchor/anchortumb.jpg %}
+Ever wondered where the cruise ships are now waiting out the Pandemic?
+
+<!--more-->
+{% youtube Y8Q8sbs9c2s %}
+
+
+Ever wondered where the cruise ships are now waiting out the Pandemic?
+
+I was lucky enough to make a zodiac photo excursion to the ships currently at anchorage in front of Scheveningen beach the Netherlands.
+
+At the time of the trip there where 5 ships, Zaandam, World Dream, Emerald Princess, Seabourn Ovation and Nieuw Statendam. It was a sureel sight to see these mighty ships empty waiting out the pandemic. We went to the Zaandam first as she was our main subject to photograph. Here captain Joost welcomed us with a blast from her horn and made pictures of us making pictures of his ship. Then we proceeded towards World Dream to admire her spacey hull art, last ship we sailed towards was the Seabourn Ovation and after a couple of passess it was time to head back to Scheveningen, we ended our adventure on the beach to have a final look at the ships as the sun set.
+
+
+Special thanks to Rib School Scheveningen [http://www.ribschool.nl](http://www.ribschool.nl){:target="_blank"}
+
+
+#SCHEVENINGEN

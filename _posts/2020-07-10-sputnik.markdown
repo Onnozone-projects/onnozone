@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Sputnik-1 scale model"
+date:   2020-07-10 09:00
+categories: [Modeling]
+---
+{% picture assets/images/sputnik/sputnik1.jpg %}
+Photo shoot of scratch build model.
+
+<!--more-->
+
+A project that has been on my "to do" list for a while.
+
+It is roughly 1/4th scale, but with the antennas attached it still takes up a large volume.
+
+The sensor bays and antenna attachments I have 3D modeled for 3D printing. The rest of the model is scratch build.
+
+{% picture assets/images/sputnik/sputnik1.jpg %}
+
+{% picture assets/images/sputnik/sputnik2.jpg %}
+
+{% picture assets/images/sputnik/sputnik3.jpg %}
+
+{% picture assets/images/sputnik/sputnik4.jpg %}
+
+{% picture assets/images/sputnik/sputnik5.jpg %}
+
+{% picture assets/images/sputnik/sputnik6.jpg %}
+
+{% picture assets/images/sputnik/sputnik7.jpg %}
+
+
+#sputnik #modeling

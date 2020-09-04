@@ -58,7 +58,7 @@
     display: none;
   }
 
-  .page-link {
+  .page-link-nav {
     color: $text-color;
     line-height: $base-line-height;
 
@@ -226,8 +226,9 @@
       border: 0;
       color: white;
       position: relative;
-      padding: 5px 10px;
+      padding: 3px 6px;
       text-transform: uppercase;
+      font-size: smaller;
 
       &:hover {
         color: black;

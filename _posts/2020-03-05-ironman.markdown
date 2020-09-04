@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Art print of Iron Man"
+date:   2020-03-05 09:00
+categories: [Art]
+---
+{% picture assets/images/ironman/ironman1.jpg %}
+Prints freshly pressed from a handmade woodcut.
+
+<!--more-->
+
+Feeling the "Warhol" vibe!
+
+35 Iron Man prints freshly pressed from a handmade woodcut in a variety of colors.
+
+{% picture assets/images/ironman/ironman1.jpg %}
+
+{% picture assets/images/ironman/ironman2.jpg %}
+
+{% picture assets/images/ironman/ironman3.jpg %}
+
+
+#ironman #print #woodcut
