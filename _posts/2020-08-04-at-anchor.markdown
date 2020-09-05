@@ -5,7 +5,7 @@ date:   2020-08-04 21:50
 categories: [Videos, Ships]
 tags: [Ships]
 ---
-{% picture assets/images/at_anchor/anchortumb.jpg %}
+{% picture assets/images/at_anchor/anchortumb.jpg --alt Video of cruise ships laid up %}
 Ever wondered where the cruise ships are now waiting out the Pandemic?
 
 <!--more-->
