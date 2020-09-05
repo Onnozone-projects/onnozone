@@ -90,6 +90,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.0.0)
   jekyll-feed (~> 0.12)
+  jekyll-seo-tag
   jekyll-sitemap
   jekyll_picture_tag
   minima (~> 2.5)

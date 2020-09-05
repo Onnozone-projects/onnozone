@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Black Watch profile illustration"
+image: /assets/images/black_watch/blwtumb.jpg
 date:   2020-07-25 20:54
 categories: [Illustrations, Ships]
 tags: [Ships]

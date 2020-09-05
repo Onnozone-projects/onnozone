@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Cruise ships laid up"
+image: /assets/images/at_anchor/anchortumb.jpg
 date:   2020-08-04 21:50
 categories: [Videos, Ships]
 tags: [Ships]

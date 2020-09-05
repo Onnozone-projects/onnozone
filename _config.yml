@@ -1,4 +1,5 @@
 title: Onnozone
+logo: assets/images/onnozone_logo.png
 facebook_pageid: Onnozone-113172183839158
 facebook_pagename: Facebook
 youtube_channelid: UCIe_v09FFodVGK34RnATljA
@@ -12,6 +13,7 @@ url: "https://onnozone.com"
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
   - jekyll_picture_tag
   - jekyll-sitemap
 
@@ -21,3 +23,6 @@ future: true
 google_analytics: UA-176126375-1
 
 permalink: pretty
+
+twitter:
+  card: summary_large_image

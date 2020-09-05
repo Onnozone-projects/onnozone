@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "The Photo Book"
+image: /assets/images/photobook/photobook1.jpg
 date:   2020-09-04 23:14
 categories: [Photography]
 ---
