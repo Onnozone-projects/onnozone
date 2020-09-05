@@ -27,10 +27,16 @@ permalink: pretty
 twitter:
   card: summary_large_image
 
-public_categories:
-  - Art
-  - Modeling
-  - Illustrations
-  - Photography
-  - Videos
-  - Ships
+collections:
+  category:
+    sort_by: order
+    output: true
+    permalink: /:collection/:name
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"

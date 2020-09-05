@@ -19,12 +19,18 @@
         </label>
 
         <div class="trigger">
+          
+          {%- for category_item in site.category -%}
+            <a class="page-link" href="{{ category_item.url | relative_url }}">{{ category_item.title | escape }}</a>
+          {%- endfor -%}
+          
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <a class="page-link-nav" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+
         </div>
       </nav>
     {%- endif -%}
