@@ -1,7 +1,7 @@
 ---
 dispay_title: Art
 tag: Art
-order: 10
+order: 55
 ---
 
 {{ page.dispay_title }} @ {{ site.title }}
