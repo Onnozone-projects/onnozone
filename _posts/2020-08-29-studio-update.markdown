@@ -5,7 +5,7 @@ image: /assets/images/articles/articles001_01tumb.jpg
 date:   2020-08-29 10:10
 categories: [Articles, Ships]
 ---
-{% picture assets/images/articles/articles001_01tumb.jpg --alt Studio update %}
+{% picture assets/images/articles/articles001_01tumb.jpg {{ site.main_ratio }} --alt Studio update %}
 Look behind the scenes.
 
 <!--more-->

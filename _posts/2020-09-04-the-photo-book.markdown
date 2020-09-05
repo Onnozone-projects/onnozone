@@ -5,7 +5,7 @@ image: /assets/images/photobook/photobook1.jpg
 date:   2020-09-04 23:14
 categories: [Photography]
 ---
-{% picture assets/images/photobook/photobook1.jpg --alt Photo book by Onno Heesbeen %}
+{% picture assets/images/photobook/photobook1.jpg {{ site.main_ratio }} --alt Photo book by Onno Heesbeen %}
 High quality black and white photo book with a personal selection of my favorite photos and ships I made over the years.
 
 <!--more-->

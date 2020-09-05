@@ -5,7 +5,7 @@ image: /assets/images/black_watch/blwtumb.jpg
 date:   2020-07-25 20:54
 categories: [Illustrations, Ships]
 ---
-{% picture assets/images/black_watch/blwtumb.jpg --alt Black Watch profile illustration %}
+{% picture assets/images/black_watch/blwtumb.jpg {{ site.main_ratio }} --alt Black Watch profile illustration %}
 Illustartion based on my early photos from 2001.
 
 <!--more-->

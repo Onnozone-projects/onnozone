@@ -29,3 +29,43 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+
+<div class="recommended">
+
+  {% assign maxRelated = 4 %}
+  {% assign relatedPosts = "" | split: ',' %}
+  {% assign postCount = site.posts | size %}
+  {% assign allPostsRandom = site.posts | where_exp:"post","post.url != page.url" | sample: postCount - 1 %}
+  <!-- find related by category -->
+  {% for post in allPostsRandom %}
+    {% for category in post.categories %}
+        {% if page.categories contains category %}
+          {% assign relatedPosts = relatedPosts | push: post %}
+          {% break %}
+        {% endif %}
+    {% endfor %}
+  {% endfor %}
+  <!-- fill the rest with random -->
+  {% for post in allPostsRandom %}
+    {% assign found = relatedPosts | size %}
+    {% if found >= maxRelated %}
+      {% break %}
+    {% endif %}
+    {% if relatedPosts contains post %}
+      {% continue %}
+    {% endif %}
+    {% assign relatedPosts = relatedPosts | push: post %}
+  {% endfor %}
+
+  <div class="recommended-title">Recommended</div>
+
+  {% for post in relatedPosts %}
+    <a class="recommended-item" href="{{ post.url | relative_url }}" title="{{ post.title | escape }}">
+      {% picture {{ post.image }} {{ site.main_ratio }} %}
+      <h3 class="post-link">
+        {{ post.title | escape }}
+      </h3>
+    </a>
+  {% endfor %}
+
+</div>

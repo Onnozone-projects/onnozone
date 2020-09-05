@@ -40,3 +40,5 @@ defaults:
       type: category
     values:
       layout: "category"
+
+main_ratio: 700:468

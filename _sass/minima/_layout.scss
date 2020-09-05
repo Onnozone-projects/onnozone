@@ -323,3 +323,40 @@
     }
   }
 }
+
+
+.recommended {
+  border-top: 1px solid $grey-color-light;
+  max-width: $content-width-laptop;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: $spacing-unit;
+  text-align: center;
+
+  .recommended-title {
+    line-height: $spacing-unit*2;
+  }
+  
+  .recommended-item {
+    width: 20%;
+    padding: 1%;
+    margin: 1%;
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+
+    @include media-query($on-palm) {
+      width: 40%;
+    }
+
+    .post-link {
+      @include relative-font-size(1);
+      display: block;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      margin: 0;
+    }
+  }
+
+}
