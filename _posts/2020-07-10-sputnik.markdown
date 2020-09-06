@@ -3,7 +3,7 @@ layout: post
 title:  "Sputnik-1 scale model"
 image: /assets/images/sputnik/sputnik1.jpg
 date:   2020-07-10 09:00
-categories: [Modeling]
+categories: [Modeling, Space]
 ---
 {% picture assets/images/sputnik/sputnik1.jpg {{ site.main_ratio }} --alt Sputnik-1 scale model %}
 Photo shoot of scratch build model.
