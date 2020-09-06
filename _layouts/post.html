@@ -45,6 +45,10 @@ layout: default
         {% endif %}
     {% endfor %}
   {% endfor %}
+
+  <!-- take random with the limit -->
+  {% assign relatedPosts = relatedPosts | sample: maxRelated %}
+
   <!-- fill the rest with random -->
   {% for post in allPostsRandom %}
     {% assign found = relatedPosts | size %}
