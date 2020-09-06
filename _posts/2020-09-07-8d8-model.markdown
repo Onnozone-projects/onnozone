@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "8d8 model"
-image: /assets/images/8d8model/8d8model001tumb.jpg
+image: /assets/images/8d8model/8d8model001fb.jpg
 date:   2020-09-07 12:10
 categories: [Modeling]
 ---
