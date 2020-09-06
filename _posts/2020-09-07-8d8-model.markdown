@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "8d8 model"
+title:  "8D8 model"
 image: /assets/images/8d8model/8d8model001fb.jpg
 date:   2020-09-07 12:10
 categories: [Modeling]
 ---
-{% picture assets/images/8d8model/8d8model001tumb.jpg {{ site.main_ratio }} --alt 8d8 model %}
+{% picture assets/images/8d8model/8d8model001tumb.jpg {{ site.main_ratio }} --alt 8D8 model %}
 Finished the huge silicon mold.
 
 <!--more-->
@@ -16,11 +16,11 @@ A nice learning curve for future projects, what to do and what not.
 
 Overall it looks promising, next week I will start making the first resin casts.
 
-{% picture assets/images/8d8model/8d8model001.jpg --alt 8d8 model %}
+{% picture assets/images/8d8model/8d8model001.jpg --alt 8D8 model %}
 
-{% picture assets/images/8d8model/8d8model002.jpg --alt 8d8 model %}
+{% picture assets/images/8d8model/8d8model002.jpg --alt 8D8 model %}
 
-{% picture assets/images/8d8model/8d8model003.jpg --alt 8d8 model %}
+{% picture assets/images/8d8model/8d8model003.jpg --alt 8D8 model %}
 
 
 
