@@ -3,7 +3,7 @@ layout: post
 title:  Willem Ruys 1:200 model
 image: /assets/images/willem_ruys_shoot/willem_ruys_shoot001fb.jpg
 date:   2019-02-11 09:00
-categories: [Modelling, Ships]
+categories: [Modeling, Ships]
 ---
 {% picture assets/images/willem_ruys_shoot/willem_ruys_shoot001tumb.jpg {{ site.main_ratio }} --alt Willem Ruys 1:200 model %}
 My personal record in building a ship model.
