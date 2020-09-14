@@ -32,6 +32,7 @@
 
   .site-logo {
     max-width: 300px;
+    max-height: 68px;
   }
 
   @include media-query($on-palm) {
@@ -279,6 +280,11 @@
   max-width: $content-width-laptop;
   margin-right: auto;
   margin-left: auto;
+
+  &.promo {
+    max-width: 100%;
+  }
+
 }
 
 .post-header {
@@ -360,3 +366,75 @@
   }
 
 }
+
+.white {
+  background-color: white;
+}
+
+.no-gap {
+  padding: 0;
+}
+
+.promo {
+  .post-content {
+    margin-bottom: 0;
+  }
+}
+
+.paypal-button {
+  margin: 0 auto;
+  max-width: 500px;
+  text-align: center;
+  
+  &.processing {
+    position: relative;
+
+    &::before {
+      content: "Processing...";
+      background-color: white;
+      opacity: 0.9;
+      
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      right: 0;
+      left: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
+    }
+  }
+}
+
+.focus {
+  margin-bottom: $spacing-unit * 2;
+
+  @include media-query($on-palm) {
+    margin-bottom: $spacing-unit / 2;
+  }
+  
+  &:last-child{
+    margin-bottom: 0;
+  }
+
+  div {
+    max-width: $content-width-laptop;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  &.tuple{
+    >div{
+      >div {
+        display: inline-block;
+        max-width: none;
+        margin: 0;
+        @include media-query($on-palm) {
+          width: 100% !important;
+        }
+      }
+    }
+  }
+}
+
