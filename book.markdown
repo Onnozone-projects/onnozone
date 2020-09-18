@@ -7,7 +7,7 @@ payment: true
 promo: true
 class: white no-gap
 topmenu: false
-image: /assets/images/bookpage/b01.jpg
+image: /assets/images/bookpage/FBtumb.jpg
 ---
 
 <div class="focus" style="background-color: black"><div>
