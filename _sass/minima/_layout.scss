@@ -59,10 +59,24 @@
     color: $text-color;
     line-height: $base-line-height;
 
+    span {
+      display: none;
+    }
+
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
     }
+
+    @include media-query($on-laptop) {
+      span {
+        display: inline;
+      }
+      img {
+        display: none;
+      }
+    }
+
   }
 
   @include media-query($on-laptop) {
@@ -164,13 +178,18 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+  width:         calc(33% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-  width: -webkit-calc(65% - (#{$spacing-unit} / 2));
-  width:         calc(65% - (#{$spacing-unit} / 2));
+  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+  width:         calc(33% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+  width: -webkit-calc(33% - (#{$spacing-unit} / 2));
+  width:         calc(33% - (#{$spacing-unit} / 2));
 }
 
 @include media-query($on-palm) {
@@ -435,6 +454,26 @@
         }
       }
     }
+  }
+
+  &.video {
+    background-color: black;
+
+    div {
+      max-width: none;
+    }
+
+  }
+
+}
+
+.order {
+  * {
+    text-align: center;
+  }
+
+  &.on-dark {
+    color: white;
   }
 }
 
