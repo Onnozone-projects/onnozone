@@ -3,6 +3,7 @@ layout: promopage
 title: Book
 permalink: /book/
 payment: true
+promo: true
 class: white no-gap
 topmenu: false
 ---

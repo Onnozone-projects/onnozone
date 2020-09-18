@@ -31,10 +31,17 @@
             {%- endif -%}
           {%- endfor -%}
 
-          <a class="page-link" href="/book">&#x1f6d2;</a>
-
         </div>
       </nav>
     {%- endif -%}
   </div>
 </header>
+{% if page.promo != true %}
+  <div class="promo-header">
+    <div class="wrapper">
+      <a href="/book" alt="Book Order Page">
+        <img src="/assets/images/bookpage/banner.jpg">
+      </a>
+    </div>
+  </div>
+{% endif %}

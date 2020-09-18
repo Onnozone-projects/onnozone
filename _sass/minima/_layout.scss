@@ -17,6 +17,12 @@
   }
 }
 
+.promo-header {
+  background-color: white;
+  text-align: left;
+  border-bottom: 4px solid $blue-ribbon;
+}
+
 .site-title {
   @include relative-font-size(1.625);
   font-weight: 300;
