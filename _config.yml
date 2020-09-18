@@ -29,6 +29,11 @@ clientid:
   development: AR0gqFLGlm_e0h02O0_SiTVwu9GeKz_Wkif8DHo6Iznvo_jdD-wa9WNyYrlICKocs9jFacxQx0AQOagC
   production: AVBR06g73oS4PsvM0mWakiPCik3FkL9dyC40T8svFZlUYaQWyRCkurOzBbjGQxFVKgTVPqmirBUv5BC1
 
+promo: false
+
+picture:
+  suppress_warnings: true
+
 twitter:
   card: summary_large_image
 

@@ -36,7 +36,8 @@
     {%- endif -%}
   </div>
 </header>
-{% if page.promo != true %}
+
+{% if site.promo and page.promo != true %}
   <div class="promo-header">
     <div class="wrapper">
       <a href="/book" alt="Book Order Page">

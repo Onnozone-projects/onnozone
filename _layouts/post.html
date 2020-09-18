@@ -34,8 +34,8 @@ layout: default
 
   {% assign maxRelated = 4 %}
   {% assign relatedPosts = "" | split: ',' %}
-  {% assign postCount = site.posts | size %}
-  {% assign allPostsRandom = site.posts | where_exp:"post","post.url != page.url" | sample: postCount - 1 %}
+  {% assign postCount = site.posts | size | minus: 1 %}
+  {% assign allPostsRandom = site.posts | where_exp:"post","post.url != page.url" | sample: postCount %}
   <!-- find related by category -->
   {% for post in allPostsRandom %}
     {% for category in post.categories %}

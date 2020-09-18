@@ -8,11 +8,13 @@
         {%- include social.html -%}
       </div>
 
+      {% if site.promo %}
       <div class="footer-col footer-col-1">
         <a href="/book" alt="Book Order Page">
           <img src="/assets/images/bookpage/banner.jpg">
         </a>
       </div>
+      {% endif %}
 
       <div class="footer-col footer-col-3">
         <p>{{- site.description | escape -}}</p>

@@ -1,0 +1,3 @@
+presets:
+  default:
+    widths: [300, 500, 800]

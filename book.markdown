@@ -6,6 +6,7 @@ payment: true
 promo: true
 class: white no-gap
 topmenu: false
+sitemap: false
 ---
 
 <div class="focus" style="background-color: black"><div>
