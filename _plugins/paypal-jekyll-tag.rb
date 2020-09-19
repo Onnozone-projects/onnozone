@@ -23,7 +23,7 @@ module Jekyll
     location.reload();
   };
   paypal.Buttons({
-    style: { shape:   'pill' },
+    style: { shape: 'pill', layout: 'horizontal' },
     createOrder: function(data, actions) {
       return actions.order.create({
         purchase_units: [{
