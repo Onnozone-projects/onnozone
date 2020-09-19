@@ -8,7 +8,6 @@ promo: true
 class: white no-gap
 topmenu: false
 image: /assets/images/bookpage/FBtumb.jpg
-sitemap: false
 ---
 
 <div class="focus" style="background-color: black"><div>
@@ -22,10 +21,6 @@ sitemap: false
 <div class="focus video">
 <div>{% videobackground ixzWONQTIpU %}<div></div>{% endvideobackground %}</div>
 </div>
-
-<!-- <div class="focus" style="text-align: center; padding-bottom: 1em;"><div>
-<a href="#OrderNow"><img src="/assets/images/44_Yellow_CheckOut_Pill_Button.png"></a>
-</div></div> -->
 
 <div class="focus order" style="padding: 0 1em; margin-bottom: 0;">
 <div>
@@ -55,20 +50,6 @@ sitemap: false
 <div style="width: 50%">{% picture assets/images/bookpage/b05.jpg --alt Photo book by Onno Heesbeen %}</div><div style="width: 50%">{% picture assets/images/bookpage/b08.jpg --alt Photo book by Onno Heesbeen %}</div>
 </div></div>
 
-
-
-<!-- <div class="focus tuple"><div>
-<div style="width: 42%">{% picture assets/images/bookpage/a04.jpg --alt Photo book by Onno Heesbeen %}</div><div style="width: 58%">{% picture assets/images/bookpage/a05.jpg --alt Photo book by Onno Heesbeen %}</div>
-</div></div> -->
-
-<!-- <div class="focus" style="background-color: #757575">
-<div>{% youtube ixzWONQTIpU %}</div>
-</div> -->
-
-<!-- <div class="focus">
-<div>{% picture assets/images/bookpage/a08.jpg --alt Photo book by Onno Heesbeen %}</div>
-</div> -->
-
 <div class="focus tuple" style="background-color: #757575"><div>
 <div style="width: 30%">{% picture assets/images/bookpage/a07.jpg --alt Photo book by Onno Heesbeen %}</div><div style="width: 70%">{% picture assets/images/bookpage/a06.jpg --alt Photo book by Onno Heesbeen %}</div>
 </div></div>
@@ -77,7 +58,7 @@ sitemap: false
 <div style="width: 37.6%">{% picture assets/images/bookpage/a09.jpg --alt Photo book by Onno Heesbeen %}</div><div style="width: 62.4%">{% picture assets/images/bookpage/a10.jpg --alt Photo book by Onno Heesbeen %}</div>
 </div></div>
 
-<div id="OrderNow" class="focus order on-dark" style="background-color: #25aae1; padding: 3em 1em 0 1em">
+<div id="OrderNow" class="focus order on-dark" style="background-color: #25aae1; padding: 3em 1em 1em 1em">
 <div>
     <h2>Price €60 including world&nbsp;wide&nbsp;shipping track&nbsp;&&nbsp;trace</h2>
     <ul>
@@ -99,8 +80,5 @@ sitemap: false
     </ul>
 </div>
 <div>{% paypalbutton Floating Shapes 20002020|TPB001|60|Monochrome photo book, 24 pages 16x21cm %}</div>
+<div>Support for book orders available via <a href="https://forms.gle/34Nx5egPgjyvDzCCA" target="_blank">Onnozone support Google form</a></div>
 </div>
-
-<!-- <div class="focus"><div>
- <div>{% picture assets/images/bookpage/a11.jpg --alt Photo book by Onno Heesbeen %}</div>
-</div></div> -->
