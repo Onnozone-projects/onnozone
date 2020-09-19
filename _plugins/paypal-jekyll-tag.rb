@@ -19,6 +19,7 @@ module Jekyll
 <script>
 (function(){
   function onFail() {
+    alert('Transaction has failed! No funds has been transfered.');
     location.reload();
   };
   paypal.Buttons({
@@ -45,7 +46,7 @@ module Jekyll
     onApprove: function (data, actions) {
       document.querySelector('#paypal-#{@tag_id}').classList.add('processing');
       return actions.order.capture().then(function(details) {
-        sessionStorage.setItem(details.id, JSON.stringify(details))
+        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details))
         location.assign('/ordercomplete?order=' + details.id);
       });
     },
