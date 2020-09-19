@@ -22,4 +22,6 @@ I have already made a nice test print and am finetuning my final selection.
 
 The book will have 24 pages 16/21cm and will cost 45Euro (shipping costs excluded). If you would like a signed copy you can already place order by FB massage. I will keep you informed about the progress. Feel free to share the message!
 
+<a href="/book" alt="Book Order Page"><img src="/assets/images/bookpage/banner.jpg"></a>
+
 #photobook
