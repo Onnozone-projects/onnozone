@@ -8,6 +8,7 @@ promo: true
 class: white no-gap
 topmenu: false
 image: /assets/images/bookpage/FBtumb.jpg
+sitemap: false
 ---
 
 <div class="focus" style="background-color: black"><div>
