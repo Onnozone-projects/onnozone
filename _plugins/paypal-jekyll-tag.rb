@@ -10,6 +10,7 @@ module Jekyll
       @itemSku = inputList[1].strip
       @itemValue = inputList[2].strip
       @itemDescription = inputList[3].strip
+      @buttonLayout = (inputList[4] || 'horizontal').strip
       @currencyCode = Jekyll.configuration({})['currency_code']
     end
 
@@ -23,7 +24,7 @@ module Jekyll
     location.reload();
   };
   paypal.Buttons({
-    style: { shape: 'pill', layout: 'horizontal' },
+    style: { shape: 'pill', layout: '#{@buttonLayout}' },
     createOrder: function(data, actions) {
       return actions.order.create({
         purchase_units: [{
