@@ -46,8 +46,13 @@ module Jekyll
     },
     onApprove: function (data, actions) {
       document.getElementById('paypal-#{@tag_id}').className += ' processing';
+      var pending = true;
+      window.onbeforeunload = function() {
+          return pending ? "PLEASE, stay on this page for the payment processig to be completed!" : null;
+      };
       return actions.order.capture().then(function(details) {
-        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details))
+        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details));
+        pending = false;
         location.assign('/ordercomplete?order=' + details.id);
       });
     },
