@@ -41,9 +41,10 @@ image: /assets/images/bookpage/FBtumb.jpg
         Shipping will be two weeks after placing the order.
         You will be informed by e-mail of your order status.
     </li>
+    <li>Ordering takes some seconds to be processed. Make sure not to close tabs before the process is finished.</li>
     </ul>
 </div>
-<div>{% paypalbutton Floating Shapes 20002020|TPB001|60|Monochrome photo book, 24 pages 16x21cm %}</div>
+<div>{% paypalbutton Floating Shapes 20002020|TPB001|60|Monochrome photo book, 24 pages 16x21cm|vertical %}</div>
 </div>
 
 <div class="focus tuple"><div>
@@ -77,8 +78,9 @@ image: /assets/images/bookpage/FBtumb.jpg
         Shipping will be two weeks after placing the order.
         You will be informed by e-mail of your order status.
     </li>
+    <li>Ordering takes some seconds to be processed. Make sure not to close tabs before the process is finished.</li>
     </ul>
 </div>
-<div>{% paypalbutton Floating Shapes 20002020|TPB001|60|Monochrome photo book, 24 pages 16x21cm %}</div>
+<div>{% paypalbutton Floating Shapes 20002020|TPB001|60|Monochrome photo book, 24 pages 16x21cm|vertical %}</div>
 <div>Support for book orders available via <a href="https://forms.gle/34Nx5egPgjyvDzCCA" target="_blank">Onnozone support Google form</a></div>
 </div>

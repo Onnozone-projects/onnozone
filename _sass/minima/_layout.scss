@@ -415,10 +415,12 @@
     position: relative;
 
     &::before {
-      content: "Processing...";
+      @include relative-font-size(1.5);
+      content: "PLEASE, stay on this page \A for the payment processig to be completed!";
+      white-space: pre-wrap;
       background-color: white;
+      border: solid 10px red;
       opacity: 0.9;
-      
       position: absolute;
       top: 0;
       bottom: 0;
