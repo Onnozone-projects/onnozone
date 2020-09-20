@@ -19,7 +19,7 @@ module Jekyll
 <script>
 (function(){
   function onFail() {
-    alert('Transaction has failed! No funds has been transfered.');
+    alert('Transaction has failed! No funds has been transfered to Onnozone. Support is available at the Info page.');
     location.reload();
   };
   paypal.Buttons({
@@ -44,7 +44,7 @@ module Jekyll
       });
     },
     onApprove: function (data, actions) {
-      document.querySelector('#paypal-#{@tag_id}').classList.add('processing');
+      document.getElementById('paypal-#{@tag_id}').className += ' processing';
       return actions.order.capture().then(function(details) {
         sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details))
         location.assign('/ordercomplete?order=' + details.id);
