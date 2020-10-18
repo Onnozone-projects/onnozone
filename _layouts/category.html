@@ -16,8 +16,10 @@ layout: default
       {%- for post in category_posts -%}
       <li class="post-list-item">
         <a href="{{ post.url | relative_url }}">
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          {% if page.payment != true %}
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+          {% endif %}
           <h3 class="post-link">
             {{ post.title | escape }}
           </h3>
@@ -25,7 +27,13 @@ layout: default
           {{ post.excerpt }}
           {%- endif -%}
           {%- if post.excerpt != post.content -%}
-          <div class="more">more...</div>
+            <div class="more {% if post.payment == true %}payment{% endif %}">
+              {% if post.payment == true %}
+              Explore & order
+              {% else %}
+              more...
+              {% endif %}
+            </div>
           {%- endif -%}
         </a>
       </li>

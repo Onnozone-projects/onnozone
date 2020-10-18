@@ -10,7 +10,10 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$blue-ribbon:         #25aae1 !default;
+$paypal:           darken(#FFC439, 15%) !default;
+$paypal-darker:    darken($paypal, 10%) !default;
+
+$blue-ribbon:     #25aae1 !default;
 
 $text-color:       #111 !default;
 $background-color: #e8f2fa !default;

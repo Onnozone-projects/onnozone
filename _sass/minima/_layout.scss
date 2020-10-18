@@ -153,6 +153,10 @@
   border-top: 1px solid $grey-color-light;
   padding-top: $spacing-unit;
   background-color: #cfe5f3;
+
+  .page-link {
+    text-transform: uppercase;
+  }
 }
 
 .footer-heading {
@@ -191,6 +195,7 @@
 .footer-col-2 {
   width: -webkit-calc(33% - (#{$spacing-unit} / 2));
   width:         calc(33% - (#{$spacing-unit} / 2));
+  text-align: center;
 }
 
 .footer-col-3 {
@@ -262,6 +267,11 @@
       padding: 3px 6px;
       text-transform: uppercase;
       font-size: smaller;
+
+      &.payment {
+        box-shadow: -3px 3px 0 $paypal-darker, -2px 2px $paypal-darker, -1px 1px 0 $paypal-darker;
+        background: $paypal;
+      }
 
       &:hover {
         color: black;

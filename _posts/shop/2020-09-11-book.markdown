@@ -8,7 +8,15 @@ promo: true
 class: white no-gap
 topmenu: false
 image: /assets/images/bookpage/FBtumb.jpg
+date:   2020-09-11 09:00
+categories: [Shop, Photography]
 ---
+
+{% picture assets/images/bookpage/b01.jpg --alt Photo book by Onno Heesbeen %}
+
+Book 24&nbsp;pages, 21x16x1.5cm, Fujicolor HD Lustre Album Paper, hard linen cover.
+
+<!--more-->
 
 <div class="focus" style="background-color: black"><div>
  <div>{% picture assets/images/bookpage/b01.jpg --alt Photo book by Onno Heesbeen %}</div>

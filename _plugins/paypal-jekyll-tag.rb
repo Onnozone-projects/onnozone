@@ -24,7 +24,7 @@ module Jekyll
     location.reload();
   };
   paypal.Buttons({
-    style: { shape: 'pill', layout: '#{@buttonLayout}' },
+    style: { shape: 'pill', layout: '#{@buttonLayout}', label: 'checkout'},
     createOrder: function(data, actions) {
       return actions.order.create({
         purchase_units: [{
