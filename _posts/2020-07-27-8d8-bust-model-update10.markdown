@@ -2,10 +2,10 @@
 layout: post
 title:  "8D8 bust model update 10"
 image: /assets/images/8d8model/8d8_10_001fb.jpg
+imagetile: /assets/images/8d8model/8d8_10_001tumb.jpg
 date:   2020-07-27 12:10
 categories: [Modeling, 8D8 Garagr Kit]
 ---
-{% picture assets/images/8d8model/8d8_10_001tumb.jpg {{ site.main_ratio }} --alt 8D8 model %}
 Taking it to the next level.
 
 <!--more-->

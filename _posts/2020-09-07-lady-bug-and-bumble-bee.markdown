@@ -2,10 +2,10 @@
 layout: post
 title:  "Lady bug and bumble bee"
 image: /assets/images/macro/macro001.jpg
+imagetile: /assets/images/macro/macro001.jpg
 date:   2020-09-07 09:00
 categories: [Photography]
 ---
-{% picture assets/images/macro/macro001.jpg {{ site.main_ratio }} --alt Lady bug macro photo %}
 Welcome to the world of macro photography.
 
 <!--more-->

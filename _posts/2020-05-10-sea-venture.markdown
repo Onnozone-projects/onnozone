@@ -2,10 +2,10 @@
 layout: post
 title: Sea Venture scale 1:200 model
 image: /assets/images/sea_venture_shoot/sea-venture-shoot001fb.jpg
+imagetile: /assets/images/sea_venture_shoot/sea-venture-shoot001tumb.jpg
 date:   2020-05-10 09:00
 categories: [Modeling, Ships]
 ---
-{% picture assets/images/sea_venture_shoot/sea-venture-shoot001tumb.jpg {{ site.main_ratio }} --alt Sea Venture scale 1:200 model %}
 Modeling the Love Boat.
 
 <!--more-->

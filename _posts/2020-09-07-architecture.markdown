@@ -2,10 +2,10 @@
 layout: post
 title:  "It is an abstract world"
 image: /assets/images/architecture/architecture001.jpg
+imagetile: /assets/images/architecture/architecture001.jpg
 date:   2020-09-07 10:10
 categories: [Photography, Architecture]
 ---
-{% picture assets/images/architecture/architecture001.jpg {{ site.main_ratio }} --alt Rotterdam architecture abstract %}
 Making Rotterdam architecture abstract.
 
 <!--more-->

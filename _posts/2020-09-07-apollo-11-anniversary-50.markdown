@@ -2,10 +2,10 @@
 layout: post
 title:  "50th anniversary APOLLO 11"
 image: /assets/images/moon50/moon50tumb.jpg
+imagetile: /assets/images/moon50/moon50tumb.jpg
 date:   2020-09-07 15:00
 categories: [Videos, Space]
 ---
-{% picture assets/images/moon50/moon50tumb.jpg {{ site.main_ratio }} --alt Video for 50th anniversary APOLLO 11 %}
 I stayed up during the night to capture these...
 
 <!--more-->

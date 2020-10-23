@@ -2,10 +2,10 @@
 layout: post
 title:  "6 days of track cycling"
 image: /assets/images/6daagse_shoot/6daagse001fb.jpg
+imagetile: /assets/images/6daagse_shoot/6daagse001tumb.jpg
 date:   2020-09-07 14:10
 categories: [Photography, Cycling]
 ---
-{% picture assets/images/6daagse_shoot/6daagse001tumb.jpg {{ site.main_ratio }} --alt 6 daagse van Tilburg %}
 “6 daagse van Tilburg”
 
 <!--more-->

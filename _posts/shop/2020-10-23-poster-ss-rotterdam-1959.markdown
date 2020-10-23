@@ -9,11 +9,10 @@ class: white no-gap
 more: gray
 topmenu: false
 image: /assets/shop/shop_poster_rot/poster_rot001b.jpg
+imagetile: /assets/shop/shop_poster_rot/poster_rot001b.jpg
 date:   2020-10-23 09:15
 categories: [Shop, Illustrations]
 ---
-
-{% picture assets/shop/shop_poster_rot/poster_rot001b.jpg {{ site.main_ratio }} --alt Poster ss Rotterdam 1959 %}
 
 <!--more-->
 

@@ -9,11 +9,10 @@ class: white no-gap
 more: red
 topmenu: false
 image: /assets/shop/shop_book_20/book_20001b.jpg
+imagetile: /assets/shop/shop_book_20/book_20001b.jpg
 date:   2020-09-11 09:00
 categories: [Shop, Photography]
 ---
-
-{% picture assets/shop/shop_book_20/book_20001b.jpg {{ site.main_ratio }} --alt Photo book by Onno Heesbeen %}
 
 <!--more-->
 

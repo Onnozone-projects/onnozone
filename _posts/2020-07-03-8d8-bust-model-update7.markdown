@@ -2,10 +2,10 @@
 layout: post
 title:  "8D8 bust model update 7"
 image: /assets/images/8d8model/8d8_07_003fb.jpg
+imagetile: /assets/images/8d8model/8d8_07_003tumb.jpg
 date:   2020-07-03 12:10
 categories: [Modeling, 8D8 Garagr Kit]
 ---
-{% picture assets/images/8d8model/8d8_07_003tumb.jpg {{ site.main_ratio }} --alt 8D8 model %}
 Neck of the droid.
 
 <!--more-->

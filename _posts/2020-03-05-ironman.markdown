@@ -2,10 +2,10 @@
 layout: post
 title:  "Art print of Iron Man"
 image: /assets/images/ironman/ironman1.jpg
+imagetile: /assets/images/ironman/ironman1.jpg
 date:   2020-03-05 09:00
 categories: [Art]
 ---
-{% picture assets/images/ironman/ironman1.jpg {{ site.main_ratio }} --alt Iron Man handmade woodcut %}
 Prints freshly pressed from a handmade woodcut.
 
 <!--more-->

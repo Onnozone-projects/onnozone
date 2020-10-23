@@ -9,11 +9,10 @@ class: white no-gap
 more: gray
 topmenu: false
 image: /assets/shop/shop_poster_gal/poster_gal001b.jpg
+imagetile: /assets/shop/shop_poster_gal/poster_gal001b.jpg
 date:   2020-10-23 09:10
 categories: [Shop, Illustrations]
 ---
-
-{% picture assets/shop/shop_poster_gal/poster_gal001b.jpg {{ site.main_ratio }} --alt Poster Galileo Galilei 1963 %}
 
 <!--more-->
 

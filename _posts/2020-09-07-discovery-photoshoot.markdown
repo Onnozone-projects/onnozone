@@ -2,10 +2,10 @@
 layout: post
 title:  "Discovery photoshoot"
 image: /assets/images/dicovery_shoot/discovery_shoot001fb.jpg
+imagetile: /assets/images/dicovery_shoot/discovery_shoot001tumb.jpg
 date:   2020-09-07 13:10
 categories: [Photography, Ships]
 ---
-{% picture assets/images/dicovery_shoot/discovery_shoot001tumb.jpg {{ site.main_ratio }} --alt Discovery ship %}
 The Discovery ship.
 
 <!--more-->

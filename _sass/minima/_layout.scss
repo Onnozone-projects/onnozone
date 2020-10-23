@@ -241,7 +241,7 @@
   margin-left: 0;
   list-style: none;
   text-align: center;
-
+  
   > .post-list-item {
     margin-bottom: $spacing-unit;
     display: inline-block;
@@ -252,6 +252,13 @@
     box-sizing: border-box;
     text-align: initial;
     
+    .post-link {
+      display: block;
+      @include relative-font-size(1.5);
+      color: $brand_color;
+      margin: 0;
+    }
+
     p {
       color: $text-color;
     }
@@ -300,11 +307,6 @@
   color: $grey-color;
 }
 
-.post-link {
-  display: block;
-  @include relative-font-size(1.5);
-  color: $brand_color;
-}
 
 
 

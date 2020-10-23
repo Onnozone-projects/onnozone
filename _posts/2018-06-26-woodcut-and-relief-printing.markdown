@@ -2,10 +2,10 @@
 layout: post
 title:  Woodcut and relief printing
 image: /assets/images/woodcut/woodcut001fb.jpg
+imagetile: /assets/images/woodcut/woodcut001tumb.jpg
 date:   2018-06-26 09:00
 categories: [Articles, Art]
 ---
-{% picture assets/images/woodcut/woodcut001tumb.jpg {{ site.main_ratio }} --alt Woodcut and relief printing %}
 Hand carving a wood cut.
 
 <!--more-->

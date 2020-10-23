@@ -2,10 +2,10 @@
 layout: post
 title:  "Nieuw Amsterdam II funnel art"
 image: /assets/images/nieuw_amsterdam/nieuw_amsterdam_tumb.jpg
+imagetile: /assets/images/nieuw_amsterdam/nieuw_amsterdam_tumb.jpg
 date:   2020-06-06 09:00
 categories: [Art, Ships]
 ---
-{% picture assets/images/nieuw_amsterdam/nieuw_amsterdam_tumb.jpg {{ site.main_ratio }} --alt Nieuw Amsterdam II funnel art %}
 A worthy ship for an epic limited edition illustration.
 
 <!--more-->

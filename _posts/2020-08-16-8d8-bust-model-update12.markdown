@@ -2,10 +2,10 @@
 layout: post
 title:  "8D8 bust model update 12"
 image: /assets/images/8d8model/8d8_12_002fb.jpg
+imagetile: /assets/images/8d8model/8d8_12_002tumb.jpg
 date:   2020-08-16 12:10
 categories: [Modeling, 8D8 Garagr Kit]
 ---
-{% picture assets/images/8d8model/8d8_12_002tumb.jpg {{ site.main_ratio }} --alt 8D8 model %}
 More molds have been made.
 
 <!--more-->

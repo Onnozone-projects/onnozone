@@ -2,10 +2,10 @@
 layout: post
 title: Urban Brutality
 image: /assets/images/urban_brutality/urban-brutality002fb.jpg
+imagetile: /assets/images/urban_brutality/urban-brutality002tumb.jpg
 date:   2020-09-07 17:00
 categories: [Photography, Architecture]
 ---
-{% picture assets/images/urban_brutality/urban-brutality002tumb.jpg {{ site.main_ratio }} --alt Urban Brutality %}
 @Tramkade in 's-Hertogenbosch
 
 <!--more-->

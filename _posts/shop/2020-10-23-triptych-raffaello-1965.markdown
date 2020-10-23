@@ -9,11 +9,10 @@ class: white no-gap
 more: blue
 topmenu: false
 image: /assets/shop/shop_trip_raf/trip_raf001b.jpg
+imagetile: /assets/shop/shop_trip_raf/trip_raf001b.jpg
 date:   2020-10-23 09:20
 categories: [Shop, Illustrations]
 ---
-
-{% picture assets/shop/shop_trip_raf/trip_raf001b.jpg {{ site.main_ratio }} --alt Triptych Raffaello 1965 %}
 
 <!--more-->
 

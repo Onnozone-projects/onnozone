@@ -2,10 +2,10 @@
 layout: post
 title:  "8D8 bust model update 2"
 image: /assets/images/8d8model/8d8_02_002fb.jpg
+imagetile: /assets/images/8d8model/8d8_02_002tumb.jpg
 date:   2020-06-26 12:10
 categories: [Modeling, 8D8 Garagr Kit]
 ---
-{% picture assets/images/8d8model/8d8_02_002tumb.jpg {{ site.main_ratio }} --alt 8D8 model %}
 Making progress on 8D8 torture droid.
 
 <!--more-->

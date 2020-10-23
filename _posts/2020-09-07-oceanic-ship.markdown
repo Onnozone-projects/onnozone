@@ -2,10 +2,10 @@
 layout: post
 title:  Oceanic, the Italian beauty
 image: /assets/images/oceanic_shoot/oceanic001fb.jpg
+imagetile: /assets/images/oceanic_shoot/oceanic001tumb.jpg
 date:   2020-09-07 14:15
 categories: [Photography, Ships]
 ---
-{% picture assets/images/oceanic_shoot/oceanic001tumb.jpg {{ site.main_ratio }} --alt Oceanic, the ship %}
 At the locks of IJmuiden, The Netherlands.
 
 <!--more-->

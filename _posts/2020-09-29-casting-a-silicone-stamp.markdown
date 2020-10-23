@@ -2,10 +2,10 @@
 layout: post
 title:  "Casting a silicone stamp"
 image: /assets/images/making_stamp/making_stamp.jpg
+imagetile: /assets/images/making_stamp/making_stamp.jpg
 date:   2020-09-29 19:50
 categories: [Videos, Articles]
 ---
-{% picture assets/images/making_stamp/making_stamp.jpg {{ site.main_ratio }} --alt Casting a silicone stamp %}
 Printing cover titles for the first orders.
 
 <!--more-->

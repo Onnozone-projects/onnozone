@@ -2,10 +2,10 @@
 layout: post
 title:  "8D8 bust model update 14"
 image: /assets/images/8d8model/8d8_14_003fb.jpg
+imagetile: /assets/images/8d8model/8d8_14_003tumb.jpg
 date:   2020-08-28 12:10
 categories: [Modeling, 8D8 Garagr Kit]
 ---
-{% picture assets/images/8d8model/8d8_14_003tumb.jpg {{ site.main_ratio }} --alt 8D8 model %}
 First resin cast.
 
 <!--more-->
