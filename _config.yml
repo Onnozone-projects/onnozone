@@ -4,6 +4,8 @@ facebook_pageid: onnozonecom
 facebook_pagename: Facebook
 youtube_channelid: UCIe_v09FFodVGK34RnATljA
 youtube_channelname: YouTube
+instagram_userid: onnozone
+instagram_username: Instagram
 description: >- # this means to ignore newlines until next parameter
   Onnozone is the creative makerspace of Onno Heesbeen © 2020
 # baseurl: "/blog" # the subpath of your site, e.g. /blog
@@ -52,3 +54,5 @@ defaults:
       layout: "category"
 
 main_ratio: 700:468
+
+style: compress

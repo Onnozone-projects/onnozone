@@ -1,10 +1,9 @@
 ---
+layout: shop
 dispay_title: Shop
 tag: Shop
 order: 100
-class: white
+class: white no-gap
 payment: true
 permalink: shop
 ---
-
-{{ page.dispay_title }} @ {{ site.title }}

@@ -3,11 +3,9 @@ layout: default
 ---
 
 <div class="category-home">
-  {%- if page.tag -%}
-    <h1 class="page-heading">{{ page.dispay_title }}</h1>
+  {%- if page.content -%}
+    {{ page.content }}
   {%- endif -%}
-
-  <!-- {{ content }} it will be only reflected in seo meta -->
 
   {%- assign category_posts = site.categories[page.tag] -%}
 
@@ -20,7 +18,7 @@ layout: default
             {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
             <span class="post-meta">{{ post.date | date: date_format }}</span>
           {% endif %}
-          <h3 class="post-link">
+          <h3 class="post-link {% if post.payment == true %}payment{% endif %}">
             {{ post.title | escape }}
           </h3>
           {%- if site.show_excerpts -%}
@@ -29,7 +27,7 @@ layout: default
           {%- if post.excerpt != post.content -%}
             <div class="more {% if post.payment == true %}payment{% endif %}">
               {% if post.payment == true %}
-              Explore & order
+              Info and order
               {% else %}
               more...
               {% endif %}

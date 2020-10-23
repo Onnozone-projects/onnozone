@@ -52,6 +52,7 @@
   float: right;
   line-height: 68px;
   text-transform: uppercase;
+  z-index: 1000;
 
   .nav-trigger {
       display: none;
@@ -312,7 +313,7 @@
  */
 
 .post {
-  max-width: $content-width-laptop;
+  max-width: $readable-content-width;
   margin-right: auto;
   margin-left: auto;
 
@@ -368,7 +369,7 @@
 
 .recommended {
   border-top: 1px solid $grey-color-light;
-  max-width: $content-width-laptop;
+  max-width: $readable-content-width;
   margin-right: auto;
   margin-left: auto;
   margin-top: $spacing-unit;
@@ -456,7 +457,7 @@
   }
 
   div {
-    max-width: $content-width-laptop;
+    max-width: $readable-content-width;
     margin-right: auto;
     margin-left: auto;
   }

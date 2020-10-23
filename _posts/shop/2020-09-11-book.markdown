@@ -1,20 +1,19 @@
 ---
 layout: promopage
-title: Floating Shapes 20002020
+title: "Shop | Floating Shapes 20002020"
 description: 20th anniversary maritime photobook by Onno Heesbeen
 permalink: /book/
 payment: true
 promo: true
 class: white no-gap
+more: red
 topmenu: false
-image: /assets/images/bookpage/FBtumb.jpg
+image: /assets/shop/shop_book_20/book_20001b.jpg
 date:   2020-09-11 09:00
 categories: [Shop, Photography]
 ---
 
-{% picture assets/images/bookpage/b01.jpg --alt Photo book by Onno Heesbeen %}
-
-Book 24&nbsp;pages, 21x16x1.5cm, Fujicolor HD Lustre Album Paper, hard linen cover.
+{% picture assets/shop/shop_book_20/book_20001b.jpg {{ site.main_ratio }} --alt Photo book by Onno Heesbeen %}
 
 <!--more-->
 
@@ -46,10 +45,11 @@ Book 24&nbsp;pages, 21x16x1.5cm, Fujicolor HD Lustre Album Paper, hard linen cov
         printed on Fujicolor HD Lustre Album Paper.
     </li>
     <li>Each order will be printed on demand.
-        Shipping will be two weeks after placing the order.
+        Shipping will be within two weeks after placing the order.
         You will be informed by e-mail of your order status.
     </li>
-    <li>Ordering takes some seconds to be processed. Make sure not to close tabs before the process is finished.</li>
+    <li>Ordering takes some seconds to be processed. Make sure not to close the browser before the process has finished.</li>
+    <li>For additional questions and help you can fill in <a href="https://forms.gle/34Nx5egPgjyvDzCCA" target="_blank">Onnozone support Google form</a></li>
     </ul>
 </div>
 <div>{% paypalbutton Floating Shapes 20002020|TPB001|60|Monochrome photo book, 24 pages 16x21cm|vertical %}</div>
@@ -83,12 +83,12 @@ Book 24&nbsp;pages, 21x16x1.5cm, Fujicolor HD Lustre Album Paper, hard linen cov
         printed on Fujicolor HD Lustre Album Paper.
     </li>
     <li>Each order will be printed on demand.
-        Shipping will be two weeks after placing the order.
-        You will be informed by e-mail of your order status.
+        Shipping will be within two weeks after placing the order.
+        You will be informed by e-mail about your order status.
     </li>
-    <li>Ordering takes some seconds to be processed. Make sure not to close tabs before the process is finished.</li>
+    <li>Ordering takes some seconds to be processed. Make sure not to close the browser before the process has finished.</li>
+    <li>For additional questions and help you can fill in <a href="https://forms.gle/34Nx5egPgjyvDzCCA" target="_blank">Onnozone support Google form</a></li>
     </ul>
 </div>
 <div>{% paypalbutton Floating Shapes 20002020|TPB001|60|Monochrome photo book, 24 pages 16x21cm|vertical %}</div>
-<div>Support for book orders available via <a href="https://forms.gle/34Nx5egPgjyvDzCCA" target="_blank">Onnozone support Google form</a></div>
 </div>

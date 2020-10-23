@@ -1,0 +1,22 @@
+---
+layout: promodefault
+---
+
+{%- if page.content -%}
+  {{ page.content }}
+{%- endif -%}
+
+{%- assign category_posts = site.categories[page.tag] -%}
+
+<ul class="shop-list">
+  {%- for post in category_posts -%}
+  <li class="shop-list-item">
+    <a href="{{ post.url | relative_url }}" alt="{{ post.description }}">
+
+      {% picture {{post.image}} {{ site.main_ratio }} --alt {{post.title}} %}
+      <div class="more {{post.more}}">Info and order</div>
+
+    </a>
+  </li>
+  {%- endfor -%}
+</ul>

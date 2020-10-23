@@ -4,4 +4,4 @@ tag: Articles
 order: 5
 ---
 
-{{ page.dispay_title }} @ {{ site.title }}
+<h1 class="page-heading">{{ page.dispay_title }}</h1>

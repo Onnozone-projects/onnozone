@@ -10,7 +10,7 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$paypal:           darken(#FFC439, 15%) !default;
+$paypal:           darken(#f16932, 0%) !default;
 $paypal-darker:    darken($paypal, 10%) !default;
 
 $blue-ribbon:     #25aae1 !default;
@@ -29,9 +29,12 @@ $grey-color-dark:  darken($grey-color, 25%) !default;
 $table-text-align: left !default;
 
 // Width of the content area
-$content-width:    90% !default;
-$content-width-laptop:    800px !default;
+// $content-width:    90% !default;
+// $content-width-laptop:    800px !default;
+$content-width:    100% !default;
+$content-width-laptop:    100% !default;
 $content-width-palm:    800px !default;
+$readable-content-width: 800px !default;
 
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
@@ -58,5 +61,6 @@ $on-laptop:        800px !default;
   "minima/base",
   "minima/layout",
   "minima/syntax-highlighting",
-  "videoBackground"
+  "videoBackground",
+  "shop"
 ;
