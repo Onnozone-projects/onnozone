@@ -1,7 +1,7 @@
 ---
 layout: promopage
 title: "Shop | Poster ms Fantasy 1990"
-description: Poster of ms Fantasy 1990, the Carnaval fun ship
+description: Poster of ms Fantasy 1990, the Carnival fun ship
 permalink: /:categories/:title
 payment: true
 promo: true
@@ -17,15 +17,15 @@ categories: [Shop, Illustrations]
 <!--more-->
 
 <div class="focus tuple" style="background-color: #B8E6FE"><div>
-<div style="width: 50%">{% picture /assets/shop/shop_poster_fan/poster_fan003a.jpg --alt Poster of ms Fantasy 1990, the Carnaval fun ship %}</div><div style="width: 50%">{% picture /assets/shop/shop_poster_fan/poster_fan003b.jpg --alt Poster of ms Fantasy 1990, the Carnaval fun ship %}</div>
+<div style="width: 50%">{% picture /assets/shop/shop_poster_fan/poster_fan003a.jpg --alt Poster of ms Fantasy 1990, the Carnival fun ship %}</div><div style="width: 50%">{% picture /assets/shop/shop_poster_fan/poster_fan003b.jpg --alt Poster of ms Fantasy 1990, the Carnival fun ship %}</div>
 </div></div>
 
 <div class="focus" style="background-color: white"><div>
- <div>{% picture /assets/shop/shop_poster_fan/poster_fan002.jpg --alt Poster of ms Fantasy 1990, the Carnaval fun ship %}</div>
+ <div>{% picture /assets/shop/shop_poster_fan/poster_fan002.jpg --alt Poster of ms Fantasy 1990, the Carnival fun ship %}</div>
 </div></div>
 
 <div class="focus"><div>
- <div>{% picture /assets/shop/shop_poster_fan/poster_fan004.jpg --alt Poster of ms Fantasy 1990, the Carnaval fun ship %}</div>
+ <div>{% picture /assets/shop/shop_poster_fan/poster_fan004.jpg --alt Poster of ms Fantasy 1990, the Carnival fun ship %}</div>
 </div></div>
 
 <div class="focus order on-dark" style="background-color: #25aae1; padding: 3em 1em 1em 1em">
