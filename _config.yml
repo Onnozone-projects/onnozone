@@ -24,7 +24,7 @@ excerpt_separator: <!--more-->
 future: true
 google_analytics: UA-176126375-1
 
-permalink: pretty
+permalink: /:slugified_categories/:title/
 
 currency_code: EUR
 clientid:
