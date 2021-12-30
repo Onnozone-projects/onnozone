@@ -14,10 +14,10 @@ layout: default
       {%- for post in category_posts -%}
       <li class="post-list-item">
         <a href="{{ post.url | relative_url }}">
-          {% if page.payment != true %}
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
-          {% endif %}
+<!--          {% if page.payment != true %}-->
+<!--            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}-->
+<!--            <span class="post-meta">{{ post.date | date: date_format }}</span>-->
+<!--          {% endif %}-->
           {% picture {{ post.imagetile }} {{ site.main_ratio }} --alt {{ post.title }} %}
           <h3 class="post-link {% if post.payment == true %}payment{% endif %}">
             {{ post.title | escape }}
