@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.1">Jekyll</generator><link href="https://onnozone.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onnozone.com/" rel="alternate" type="text/html" /><updated>2020-11-28T18:55:41+00:00</updated><id>https://onnozone.com/feed.xml</id><title type="html">Onnozone</title><subtitle>Onnozone is the creative makerspace of Onno Heesbeen © 2020</subtitle><entry><title type="html">Astor, that little 80’s ship.</title><link href="https://onnozone.com/photography/ships/2020/11/22/astor-ship/" rel="alternate" type="text/html" title="Astor, that little 80’s ship." /><published>2020-11-22T14:15:00+00:00</published><updated>2020-11-22T14:15:00+00:00</updated><id>https://onnozone.com/photography/ships/2020/11/22/astor-ship</id><content type="html" xml:base="https://onnozone.com/photography/ships/2020/11/22/astor-ship/">&lt;p&gt;Arriving in Amsterdam, The Netherlands.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://onnozone.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://onnozone.com/" rel="alternate" type="text/html" /><updated>2021-12-31T00:48:38+01:00</updated><id>https://onnozone.com/feed.xml</id><title type="html">Onnozone</title><subtitle>Creative makerspace of Onno Heesbeen © 2020</subtitle><entry><title type="html">Astor, that little 80’s ship.</title><link href="https://onnozone.com/photography/ships/astor-ship/" rel="alternate" type="text/html" title="Astor, that little 80’s ship." /><published>2020-11-22T14:15:00+01:00</published><updated>2020-11-22T14:15:00+01:00</updated><id>https://onnozone.com/photography/ships/astor-ship</id><content type="html" xml:base="https://onnozone.com/photography/ships/astor-ship/">&lt;p&gt;Arriving in Amsterdam, The Netherlands.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -13,7 +13,7 @@
 &lt;div style=&quot;max-width: 535px; margin: auto;&quot;&gt;
 &lt;img src=&quot;/generated/assets/images/astor_shoot/astor004-535-173a12f3e.jpg&quot; alt=&quot;Astor, the ship&quot; srcset=&quot;/generated/assets/images/astor_shoot/astor004-200-173a12f3e.jpg 200w, /generated/assets/images/astor_shoot/astor004-400-173a12f3e.jpg 400w, /generated/assets/images/astor_shoot/astor004-535-173a12f3e.jpg 535w&quot; /&gt;
 
-&lt;/div&gt;</content><author><name></name></author><category term="Photography" /><category term="Ships" /><summary type="html">Arriving in Amsterdam, The Netherlands.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/images/astor_shoot/astor001fb.jpg" /><media:content medium="image" url="https://onnozone.com/assets/images/astor_shoot/astor001fb.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shop | Poster ms Fantasy 1990</title><link href="https://onnozone.com/shop/illustrations/poster-fantasy-1990" rel="alternate" type="text/html" title="Shop | Poster ms Fantasy 1990" /><published>2020-11-15T19:10:00+00:00</published><updated>2020-11-15T19:10:00+00:00</updated><id>https://onnozone.com/shop/illustrations/poster-fantasy-1990</id><content type="html" xml:base="https://onnozone.com/shop/illustrations/poster-fantasy-1990">&lt;!--more--&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Photography" /><category term="Ships" /><summary type="html">Arriving in Amsterdam, The Netherlands.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/images/astor_shoot/astor001fb.jpg" /><media:content medium="image" url="https://onnozone.com/assets/images/astor_shoot/astor001fb.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shop | Poster ms Fantasy 1990</title><link href="https://onnozone.com/shop/illustrations/poster-fantasy-1990" rel="alternate" type="text/html" title="Shop | Poster ms Fantasy 1990" /><published>2020-11-15T19:10:00+01:00</published><updated>2020-11-15T19:10:00+01:00</updated><id>https://onnozone.com/shop/illustrations/poster-fantasy-1990</id><content type="html" xml:base="https://onnozone.com/shop/illustrations/poster-fantasy-1990">&lt;!--more--&gt;
 
 &lt;div class=&quot;focus tuple&quot; style=&quot;background-color: #B8E6FE&quot;&gt;&lt;div&gt;
 &lt;div style=&quot;width: 50%&quot;&gt;&lt;img src=&quot;/generated/assets/shop/shop_poster_fan/poster_fan003a-562-619a64765.jpg&quot; alt=&quot;Poster of ms Fantasy 1990, the Carnival fun ship&quot; srcset=&quot;/generated/assets/shop/shop_poster_fan/poster_fan003a-200-619a64765.jpg 200w, /generated/assets/shop/shop_poster_fan/poster_fan003a-400-619a64765.jpg 400w, /generated/assets/shop/shop_poster_fan/poster_fan003a-562-619a64765.jpg 562w&quot; /&gt;
@@ -45,7 +45,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;div id=&quot;paypal-b6a91f88&quot; class=&quot;paypal-button&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;paypal-acdb4208&quot; class=&quot;paypal-button&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
 (function(){
   function onFail() {
@@ -74,7 +74,7 @@
       });
     },
     onApprove: function (data, actions) {
-      document.getElementById('paypal-b6a91f88').className += ' processing';
+      document.getElementById('paypal-acdb4208').className += ' processing';
       var pending = true;
       window.onbeforeunload = function() {
           return pending ? &quot;PLEASE, stay on this page for the payment processig to be completed!&quot; : null;
@@ -87,11 +87,11 @@
     },
     onCancel: onFail,
     onError: onFail
-  }).render('#paypal-b6a91f88');
+  }).render('#paypal-acdb4208');
 })();
 &lt;/script&gt;
       &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="Shop" /><category term="Illustrations" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/shop/shop_poster_fan/poster_fan001b.jpg" /><media:content medium="image" url="https://onnozone.com/assets/shop/shop_poster_fan/poster_fan001b.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hamburg profile illustration</title><link href="https://onnozone.com/illustrations/ships/2020/11/01/hamburg-illustration/" rel="alternate" type="text/html" title="Hamburg profile illustration" /><published>2020-11-01T18:00:00+00:00</published><updated>2020-11-01T18:00:00+00:00</updated><id>https://onnozone.com/illustrations/ships/2020/11/01/hamburg-illustration</id><content type="html" xml:base="https://onnozone.com/illustrations/ships/2020/11/01/hamburg-illustration/">&lt;p&gt;Starting Hamburg illustration.&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Shop" /><category term="Illustrations" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/shop/shop_poster_fan/poster_fan001b.jpg" /><media:content medium="image" url="https://onnozone.com/assets/shop/shop_poster_fan/poster_fan001b.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hamburg profile illustration</title><link href="https://onnozone.com/illustrations/ships/hamburg-illustration/" rel="alternate" type="text/html" title="Hamburg profile illustration" /><published>2020-11-01T18:00:00+01:00</published><updated>2020-11-01T18:00:00+01:00</updated><id>https://onnozone.com/illustrations/ships/hamburg-illustration</id><content type="html" xml:base="https://onnozone.com/illustrations/ships/hamburg-illustration/">&lt;p&gt;Starting Hamburg illustration.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -109,7 +109,7 @@
 
 &lt;p&gt;Don’t get the chance too often but I love drawing letters! Back in graphic school I had to do “the art of typography” by hand, ruler and pencil. It’s easier now and sometimes faster than trying to find a matching font file.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/generated/assets/images/hamburg_ilustration/ham_update1d-800-200b7fb26.jpg&quot; alt=&quot;Hamburg profile illustration&quot; srcset=&quot;/generated/assets/images/hamburg_ilustration/ham_update1d-200-200b7fb26.jpg 200w, /generated/assets/images/hamburg_ilustration/ham_update1d-400-200b7fb26.jpg 400w, /generated/assets/images/hamburg_ilustration/ham_update1d-800-200b7fb26.jpg 800w&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Illustrations" /><category term="Ships" /><summary type="html">Starting Hamburg illustration.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/images/hamburg_ilustration/ham_update1fb.jpg" /><media:content medium="image" url="https://onnozone.com/assets/images/hamburg_ilustration/ham_update1fb.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shop | Triptych Raffaello 1965</title><link href="https://onnozone.com/shop/illustrations/triptych-raffaello-1965" rel="alternate" type="text/html" title="Shop | Triptych Raffaello 1965" /><published>2020-10-23T09:20:00+00:00</published><updated>2020-10-23T09:20:00+00:00</updated><id>https://onnozone.com/shop/illustrations/triptych-raffaello-1965</id><content type="html" xml:base="https://onnozone.com/shop/illustrations/triptych-raffaello-1965">&lt;!--more--&gt;
+&lt;p&gt;&lt;img src=&quot;/generated/assets/images/hamburg_ilustration/ham_update1d-800-200b7fb26.jpg&quot; alt=&quot;Hamburg profile illustration&quot; srcset=&quot;/generated/assets/images/hamburg_ilustration/ham_update1d-200-200b7fb26.jpg 200w, /generated/assets/images/hamburg_ilustration/ham_update1d-400-200b7fb26.jpg 400w, /generated/assets/images/hamburg_ilustration/ham_update1d-800-200b7fb26.jpg 800w&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><category term="Illustrations" /><category term="Ships" /><summary type="html">Starting Hamburg illustration.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/images/hamburg_ilustration/ham_update1fb.jpg" /><media:content medium="image" url="https://onnozone.com/assets/images/hamburg_ilustration/ham_update1fb.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shop | Triptych Raffaello 1965</title><link href="https://onnozone.com/shop/illustrations/triptych-raffaello-1965" rel="alternate" type="text/html" title="Shop | Triptych Raffaello 1965" /><published>2020-10-23T09:20:00+02:00</published><updated>2020-10-23T09:20:00+02:00</updated><id>https://onnozone.com/shop/illustrations/triptych-raffaello-1965</id><content type="html" xml:base="https://onnozone.com/shop/illustrations/triptych-raffaello-1965">&lt;!--more--&gt;
 
 &lt;div class=&quot;focus tuple&quot; style=&quot;background-color: #B8E6FE&quot;&gt;&lt;div&gt;
 &lt;div style=&quot;width: 50%&quot;&gt;&lt;img src=&quot;/generated/assets/shop/shop_trip_raf/trip_raf003a-562-aca1b8395.jpg&quot; alt=&quot;Triptych Raffaello 1965&quot; srcset=&quot;/generated/assets/shop/shop_trip_raf/trip_raf003a-200-aca1b8395.jpg 200w, /generated/assets/shop/shop_trip_raf/trip_raf003a-400-aca1b8395.jpg 400w, /generated/assets/shop/shop_trip_raf/trip_raf003a-562-aca1b8395.jpg 562w&quot; /&gt;
@@ -124,10 +124,10 @@
 
 &lt;div class=&quot;focus video&quot;&gt;
 &lt;div&gt;
-&lt;div class=&quot;video-background video-761c4a7b&quot;&gt;
+&lt;div class=&quot;video-background video-479630d4&quot;&gt;
   &lt;div class=&quot;video&quot;&gt;
     &lt;div class=&quot;background&quot;&gt;
-      &lt;div id=&quot;yt-player-761c4a7b&quot;&gt;&lt;/div&gt;
+      &lt;div id=&quot;yt-player-479630d4&quot;&gt;&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&quot;video-overlay&quot; style=&quot;background-image: url('https://img.youtube.com/vi/iJOMUjj5TEA/maxresdefault.jpg');&quot;&gt;&lt;/div&gt;
@@ -155,7 +155,7 @@
   
   let ytPlayer;
   function onYouTubeIframeAPIReady() {
-    ytPlayer = new YT.Player('yt-player-761c4a7b', {
+    ytPlayer = new YT.Player('yt-player-479630d4', {
       width: '1280',
       height: '720',
       videoId: 'iJOMUjj5TEA',
@@ -184,7 +184,7 @@
   
   function onPlayerStateChange(event) {
     if (event.data == YT.PlayerState.PLAYING) {
-      const videoOverlay = document.querySelector('.video-761c4a7b .video-overlay');
+      const videoOverlay = document.querySelector('.video-479630d4 .video-overlay');
       videoOverlay.classList.add('fade-out');
     }
   }
@@ -214,7 +214,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;div id=&quot;paypal-7f5be8e6&quot; class=&quot;paypal-button&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;paypal-6b03fd34&quot; class=&quot;paypal-button&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
 (function(){
   function onFail() {
@@ -243,7 +243,7 @@
       });
     },
     onApprove: function (data, actions) {
-      document.getElementById('paypal-7f5be8e6').className += ' processing';
+      document.getElementById('paypal-6b03fd34').className += ' processing';
       var pending = true;
       window.onbeforeunload = function() {
           return pending ? &quot;PLEASE, stay on this page for the payment processig to be completed!&quot; : null;
@@ -256,7 +256,7 @@
     },
     onCancel: onFail,
     onError: onFail
-  }).render('#paypal-7f5be8e6');
+  }).render('#paypal-6b03fd34');
 })();
 &lt;/script&gt;
       &lt;/div&gt;
@@ -266,7 +266,7 @@
 &lt;div style=&quot;width: 50%; padding: 5px; box-sizing: border-box;&quot;&gt;&lt;img src=&quot;/generated/assets/shop/shop_trip_raf/trip_raf004a-562-281df2835.jpg&quot; alt=&quot;Triptych Raffaello 1965&quot; srcset=&quot;/generated/assets/shop/shop_trip_raf/trip_raf004a-200-281df2835.jpg 200w, /generated/assets/shop/shop_trip_raf/trip_raf004a-400-281df2835.jpg 400w, /generated/assets/shop/shop_trip_raf/trip_raf004a-562-281df2835.jpg 562w&quot; /&gt;
 &lt;/div&gt;&lt;div style=&quot;width: 50%; padding: 5px; box-sizing: border-box;&quot;&gt;&lt;img src=&quot;/generated/assets/shop/shop_trip_raf/trip_raf004b-562-f95cb39b2.jpg&quot; alt=&quot;Triptych Raffaello 1965&quot; srcset=&quot;/generated/assets/shop/shop_trip_raf/trip_raf004b-200-f95cb39b2.jpg 200w, /generated/assets/shop/shop_trip_raf/trip_raf004b-400-f95cb39b2.jpg 400w, /generated/assets/shop/shop_trip_raf/trip_raf004b-562-f95cb39b2.jpg 562w&quot; /&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="Shop" /><category term="Illustrations" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/shop/shop_trip_raf/trip_raf001b.jpg" /><media:content medium="image" url="https://onnozone.com/assets/shop/shop_trip_raf/trip_raf001b.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shop | Poster ss Rotterdam 1959</title><link href="https://onnozone.com/shop/illustrations/poster-ss-rotterdam-1959" rel="alternate" type="text/html" title="Shop | Poster ss Rotterdam 1959" /><published>2020-10-23T09:15:00+00:00</published><updated>2020-10-23T09:15:00+00:00</updated><id>https://onnozone.com/shop/illustrations/poster-ss-rotterdam-1959</id><content type="html" xml:base="https://onnozone.com/shop/illustrations/poster-ss-rotterdam-1959">&lt;!--more--&gt;
+&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="Shop" /><category term="Illustrations" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/shop/shop_trip_raf/trip_raf001b.jpg" /><media:content medium="image" url="https://onnozone.com/assets/shop/shop_trip_raf/trip_raf001b.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shop | Poster ss Rotterdam 1959</title><link href="https://onnozone.com/shop/illustrations/poster-ss-rotterdam-1959" rel="alternate" type="text/html" title="Shop | Poster ss Rotterdam 1959" /><published>2020-10-23T09:15:00+02:00</published><updated>2020-10-23T09:15:00+02:00</updated><id>https://onnozone.com/shop/illustrations/poster-ss-rotterdam-1959</id><content type="html" xml:base="https://onnozone.com/shop/illustrations/poster-ss-rotterdam-1959">&lt;!--more--&gt;
 
 &lt;div class=&quot;focus tuple&quot; style=&quot;background-color: #E9EEF2&quot;&gt;&lt;div&gt;
 &lt;div style=&quot;width: 50%&quot;&gt;&lt;img src=&quot;/generated/assets/shop/shop_poster_rot/poster_rot003a-562-94ccb1027.jpg&quot; alt=&quot;ss Rotterdam a 1959 Holland America Line flagship. A tribute to Dutch ship building.&quot; srcset=&quot;/generated/assets/shop/shop_poster_rot/poster_rot003a-200-94ccb1027.jpg 200w, /generated/assets/shop/shop_poster_rot/poster_rot003a-400-94ccb1027.jpg 400w, /generated/assets/shop/shop_poster_rot/poster_rot003a-562-94ccb1027.jpg 562w&quot; /&gt;
@@ -281,10 +281,10 @@
 
 &lt;div class=&quot;focus video&quot;&gt;
 &lt;div&gt;
-&lt;div class=&quot;video-background video-3c08a435&quot;&gt;
+&lt;div class=&quot;video-background video-67d27453&quot;&gt;
   &lt;div class=&quot;video&quot;&gt;
     &lt;div class=&quot;background&quot;&gt;
-      &lt;div id=&quot;yt-player-3c08a435&quot;&gt;&lt;/div&gt;
+      &lt;div id=&quot;yt-player-67d27453&quot;&gt;&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&quot;video-overlay&quot; style=&quot;background-image: url('https://img.youtube.com/vi/eZMqPU5cmhk/maxresdefault.jpg');&quot;&gt;&lt;/div&gt;
@@ -312,7 +312,7 @@
   
   let ytPlayer;
   function onYouTubeIframeAPIReady() {
-    ytPlayer = new YT.Player('yt-player-3c08a435', {
+    ytPlayer = new YT.Player('yt-player-67d27453', {
       width: '1280',
       height: '720',
       videoId: 'eZMqPU5cmhk',
@@ -341,7 +341,7 @@
   
   function onPlayerStateChange(event) {
     if (event.data == YT.PlayerState.PLAYING) {
-      const videoOverlay = document.querySelector('.video-3c08a435 .video-overlay');
+      const videoOverlay = document.querySelector('.video-67d27453 .video-overlay');
       videoOverlay.classList.add('fade-out');
     }
   }
@@ -370,7 +370,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;div id=&quot;paypal-55922d50&quot; class=&quot;paypal-button&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;paypal-9e7f0045&quot; class=&quot;paypal-button&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
 (function(){
   function onFail() {
@@ -399,7 +399,7 @@
       });
     },
     onApprove: function (data, actions) {
-      document.getElementById('paypal-55922d50').className += ' processing';
+      document.getElementById('paypal-9e7f0045').className += ' processing';
       var pending = true;
       window.onbeforeunload = function() {
           return pending ? &quot;PLEASE, stay on this page for the payment processig to be completed!&quot; : null;
@@ -412,11 +412,11 @@
     },
     onCancel: onFail,
     onError: onFail
-  }).render('#paypal-55922d50');
+  }).render('#paypal-9e7f0045');
 })();
 &lt;/script&gt;
       &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="Shop" /><category term="Illustrations" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/shop/shop_poster_rot/poster_rot001b.jpg" /><media:content medium="image" url="https://onnozone.com/assets/shop/shop_poster_rot/poster_rot001b.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shop | Poster ss Galileo Galilei 1963</title><link href="https://onnozone.com/shop/illustrations/poster-galileo-galilei-1963" rel="alternate" type="text/html" title="Shop | Poster ss Galileo Galilei 1963" /><published>2020-10-23T09:10:00+00:00</published><updated>2020-10-23T09:10:00+00:00</updated><id>https://onnozone.com/shop/illustrations/poster-galileo-galilei-1963</id><content type="html" xml:base="https://onnozone.com/shop/illustrations/poster-galileo-galilei-1963">&lt;!--more--&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Shop" /><category term="Illustrations" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/shop/shop_poster_rot/poster_rot001b.jpg" /><media:content medium="image" url="https://onnozone.com/assets/shop/shop_poster_rot/poster_rot001b.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shop | Poster ss Galileo Galilei 1963</title><link href="https://onnozone.com/shop/illustrations/poster-galileo-galilei-1963" rel="alternate" type="text/html" title="Shop | Poster ss Galileo Galilei 1963" /><published>2020-10-23T09:10:00+02:00</published><updated>2020-10-23T09:10:00+02:00</updated><id>https://onnozone.com/shop/illustrations/poster-galileo-galilei-1963</id><content type="html" xml:base="https://onnozone.com/shop/illustrations/poster-galileo-galilei-1963">&lt;!--more--&gt;
 
 &lt;div class=&quot;focus tuple&quot; style=&quot;background-color: #E2F6FF&quot;&gt;&lt;div&gt;
 &lt;div style=&quot;width: 50%&quot;&gt;&lt;img src=&quot;/generated/assets/shop/shop_poster_gal/poster_gal003a-562-ecfd0c540.jpg&quot; alt=&quot;ss Galileo Galilei 1963, the italian Lloyd Triestino liner named after the famous astronomer&quot; srcset=&quot;/generated/assets/shop/shop_poster_gal/poster_gal003a-200-ecfd0c540.jpg 200w, /generated/assets/shop/shop_poster_gal/poster_gal003a-400-ecfd0c540.jpg 400w, /generated/assets/shop/shop_poster_gal/poster_gal003a-562-ecfd0c540.jpg 562w&quot; /&gt;
@@ -431,10 +431,10 @@
 
 &lt;div class=&quot;focus video&quot;&gt;
 &lt;div&gt;
-&lt;div class=&quot;video-background video-552ea134&quot;&gt;
+&lt;div class=&quot;video-background video-499cd55e&quot;&gt;
   &lt;div class=&quot;video&quot;&gt;
     &lt;div class=&quot;background&quot;&gt;
-      &lt;div id=&quot;yt-player-552ea134&quot;&gt;&lt;/div&gt;
+      &lt;div id=&quot;yt-player-499cd55e&quot;&gt;&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&quot;video-overlay&quot; style=&quot;background-image: url('https://img.youtube.com/vi/NsoNDi-tU-U/maxresdefault.jpg');&quot;&gt;&lt;/div&gt;
@@ -462,7 +462,7 @@
   
   let ytPlayer;
   function onYouTubeIframeAPIReady() {
-    ytPlayer = new YT.Player('yt-player-552ea134', {
+    ytPlayer = new YT.Player('yt-player-499cd55e', {
       width: '1280',
       height: '720',
       videoId: 'NsoNDi-tU-U',
@@ -491,7 +491,7 @@
   
   function onPlayerStateChange(event) {
     if (event.data == YT.PlayerState.PLAYING) {
-      const videoOverlay = document.querySelector('.video-552ea134 .video-overlay');
+      const videoOverlay = document.querySelector('.video-499cd55e .video-overlay');
       videoOverlay.classList.add('fade-out');
     }
   }
@@ -520,7 +520,7 @@
     &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;div id=&quot;paypal-c598d167&quot; class=&quot;paypal-button&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;paypal-7d11dcb1&quot; class=&quot;paypal-button&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
 (function(){
   function onFail() {
@@ -549,7 +549,7 @@
       });
     },
     onApprove: function (data, actions) {
-      document.getElementById('paypal-c598d167').className += ' processing';
+      document.getElementById('paypal-7d11dcb1').className += ' processing';
       var pending = true;
       window.onbeforeunload = function() {
           return pending ? &quot;PLEASE, stay on this page for the payment processig to be completed!&quot; : null;
@@ -562,11 +562,11 @@
     },
     onCancel: onFail,
     onError: onFail
-  }).render('#paypal-c598d167');
+  }).render('#paypal-7d11dcb1');
 })();
 &lt;/script&gt;
       &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="Shop" /><category term="Illustrations" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/shop/shop_poster_gal/poster_gal001b.jpg" /><media:content medium="image" url="https://onnozone.com/assets/shop/shop_poster_gal/poster_gal001b.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Casting a silicone stamp</title><link href="https://onnozone.com/videos/articles/2020/09/29/casting-a-silicone-stamp/" rel="alternate" type="text/html" title="Casting a silicone stamp" /><published>2020-09-29T19:50:00+00:00</published><updated>2020-09-29T19:50:00+00:00</updated><id>https://onnozone.com/videos/articles/2020/09/29/casting-a-silicone-stamp</id><content type="html" xml:base="https://onnozone.com/videos/articles/2020/09/29/casting-a-silicone-stamp/">&lt;p&gt;Printing cover titles for the first orders.&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Shop" /><category term="Illustrations" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/shop/shop_poster_gal/poster_gal001b.jpg" /><media:content medium="image" url="https://onnozone.com/assets/shop/shop_poster_gal/poster_gal001b.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Casting a silicone stamp</title><link href="https://onnozone.com/videos/articles/casting-a-silicone-stamp/" rel="alternate" type="text/html" title="Casting a silicone stamp" /><published>2020-09-29T19:50:00+02:00</published><updated>2020-09-29T19:50:00+02:00</updated><id>https://onnozone.com/videos/articles/casting-a-silicone-stamp</id><content type="html" xml:base="https://onnozone.com/videos/articles/casting-a-silicone-stamp/">&lt;p&gt;Printing cover titles for the first orders.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -585,7 +585,7 @@ I 3D printed the mold for casting the silicone stamp with the title letters sunk
 
 &lt;p&gt;After a night of curing (I used slow curing silicone) the stamp block (with raised mirrored title letters) could be taken out and used for making the prints.&lt;/p&gt;
 
-&lt;p&gt;I rolled in the stamp with a white printing ink, pressed it onto the book cover…and finished!&lt;/p&gt;</content><author><name></name></author><category term="Videos" /><category term="Articles" /><summary type="html">Printing cover titles for the first orders.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/images/making_stamp/making_stamp.jpg" /><media:content medium="image" url="https://onnozone.com/assets/images/making_stamp/making_stamp.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shop | Floating Shapes 20002020</title><link href="https://onnozone.com/book/" rel="alternate" type="text/html" title="Shop | Floating Shapes 20002020" /><published>2020-09-11T09:00:00+00:00</published><updated>2020-09-11T09:00:00+00:00</updated><id>https://onnozone.com/book</id><content type="html" xml:base="https://onnozone.com/book/">&lt;!--more--&gt;
+&lt;p&gt;I rolled in the stamp with a white printing ink, pressed it onto the book cover…and finished!&lt;/p&gt;</content><author><name></name></author><category term="Videos" /><category term="Articles" /><summary type="html">Printing cover titles for the first orders.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/images/making_stamp/making_stamp.jpg" /><media:content medium="image" url="https://onnozone.com/assets/images/making_stamp/making_stamp.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Shop | Floating Shapes 20002020</title><link href="https://onnozone.com/book/" rel="alternate" type="text/html" title="Shop | Floating Shapes 20002020" /><published>2020-09-11T09:00:00+02:00</published><updated>2020-09-11T09:00:00+02:00</updated><id>https://onnozone.com/book</id><content type="html" xml:base="https://onnozone.com/book/">&lt;!--more--&gt;
 
 &lt;div class=&quot;focus&quot; style=&quot;background-color: black&quot;&gt;&lt;div&gt;
  &lt;div&gt;&lt;img src=&quot;/generated/assets/images/bookpage/b01-800-805d90048.jpg&quot; alt=&quot;Photo book by Onno Heesbeen&quot; srcset=&quot;/generated/assets/images/bookpage/b01-200-805d90048.jpg 200w, /generated/assets/images/bookpage/b01-400-805d90048.jpg 400w, /generated/assets/images/bookpage/b01-800-805d90048.jpg 800w, /generated/assets/images/bookpage/b01-1125-805d90048.jpg 1125w&quot; /&gt;
@@ -600,10 +600,10 @@ I 3D printed the mold for casting the silicone stamp with the title letters sunk
 
 &lt;div class=&quot;focus video&quot;&gt;
 &lt;div&gt;
-&lt;div class=&quot;video-background video-76d3fb4a&quot;&gt;
+&lt;div class=&quot;video-background video-d40ddcec&quot;&gt;
   &lt;div class=&quot;video&quot;&gt;
     &lt;div class=&quot;background&quot;&gt;
-      &lt;div id=&quot;yt-player-76d3fb4a&quot;&gt;&lt;/div&gt;
+      &lt;div id=&quot;yt-player-d40ddcec&quot;&gt;&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class=&quot;video-overlay&quot; style=&quot;background-image: url('https://img.youtube.com/vi/ixzWONQTIpU/maxresdefault.jpg');&quot;&gt;&lt;/div&gt;
@@ -631,7 +631,7 @@ I 3D printed the mold for casting the silicone stamp with the title letters sunk
   
   let ytPlayer;
   function onYouTubeIframeAPIReady() {
-    ytPlayer = new YT.Player('yt-player-76d3fb4a', {
+    ytPlayer = new YT.Player('yt-player-d40ddcec', {
       width: '1280',
       height: '720',
       videoId: 'ixzWONQTIpU',
@@ -660,7 +660,7 @@ I 3D printed the mold for casting the silicone stamp with the title letters sunk
   
   function onPlayerStateChange(event) {
     if (event.data == YT.PlayerState.PLAYING) {
-      const videoOverlay = document.querySelector('.video-76d3fb4a .video-overlay');
+      const videoOverlay = document.querySelector('.video-d40ddcec .video-overlay');
       videoOverlay.classList.add('fade-out');
     }
   }
@@ -694,7 +694,7 @@ I 3D printed the mold for casting the silicone stamp with the title letters sunk
     &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;div id=&quot;paypal-660022ec&quot; class=&quot;paypal-button&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;paypal-a62a58c7&quot; class=&quot;paypal-button&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
 (function(){
   function onFail() {
@@ -723,7 +723,7 @@ I 3D printed the mold for casting the silicone stamp with the title letters sunk
       });
     },
     onApprove: function (data, actions) {
-      document.getElementById('paypal-660022ec').className += ' processing';
+      document.getElementById('paypal-a62a58c7').className += ' processing';
       var pending = true;
       window.onbeforeunload = function() {
           return pending ? &quot;PLEASE, stay on this page for the payment processig to be completed!&quot; : null;
@@ -736,7 +736,7 @@ I 3D printed the mold for casting the silicone stamp with the title letters sunk
     },
     onCancel: onFail,
     onError: onFail
-  }).render('#paypal-660022ec');
+  }).render('#paypal-a62a58c7');
 })();
 &lt;/script&gt;
       &lt;/div&gt;
@@ -784,7 +784,7 @@ I 3D printed the mold for casting the silicone stamp with the title letters sunk
     &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div&gt;
-&lt;div id=&quot;paypal-248470b9&quot; class=&quot;paypal-button&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;paypal-8b796671&quot; class=&quot;paypal-button&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
 (function(){
   function onFail() {
@@ -813,7 +813,7 @@ I 3D printed the mold for casting the silicone stamp with the title letters sunk
       });
     },
     onApprove: function (data, actions) {
-      document.getElementById('paypal-248470b9').className += ' processing';
+      document.getElementById('paypal-8b796671').className += ' processing';
       var pending = true;
       window.onbeforeunload = function() {
           return pending ? &quot;PLEASE, stay on this page for the payment processig to be completed!&quot; : null;
@@ -826,11 +826,11 @@ I 3D printed the mold for casting the silicone stamp with the title letters sunk
     },
     onCancel: onFail,
     onError: onFail
-  }).render('#paypal-248470b9');
+  }).render('#paypal-8b796671');
 })();
 &lt;/script&gt;
       &lt;/div&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="Shop" /><category term="Photography" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/shop/shop_book_20/book_20001b.jpg" /><media:content medium="image" url="https://onnozone.com/assets/shop/shop_book_20/book_20001b.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Urban Brutality</title><link href="https://onnozone.com/photography/architecture/2020/09/07/urban-brutality/" rel="alternate" type="text/html" title="Urban Brutality" /><published>2020-09-07T17:00:00+00:00</published><updated>2020-09-07T17:00:00+00:00</updated><id>https://onnozone.com/photography/architecture/2020/09/07/urban-brutality</id><content type="html" xml:base="https://onnozone.com/photography/architecture/2020/09/07/urban-brutality/">&lt;p&gt;@Tramkade in ‘s-Hertogenbosch&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="Shop" /><category term="Photography" /><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/shop/shop_book_20/book_20001b.jpg" /><media:content medium="image" url="https://onnozone.com/assets/shop/shop_book_20/book_20001b.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Urban Brutality</title><link href="https://onnozone.com/photography/architecture/urban-brutality/" rel="alternate" type="text/html" title="Urban Brutality" /><published>2020-09-07T17:00:00+02:00</published><updated>2020-09-07T17:00:00+02:00</updated><id>https://onnozone.com/photography/architecture/urban-brutality</id><content type="html" xml:base="https://onnozone.com/photography/architecture/urban-brutality/">&lt;p&gt;@Tramkade in ‘s-Hertogenbosch&lt;/p&gt;
 
 &lt;!--more--&gt;
 
@@ -850,7 +850,7 @@ I 3D printed the mold for casting the silicone stamp with the title letters sunk
 
 &lt;p&gt;&lt;img src=&quot;/generated/assets/images/urban_brutality/urban-brutality006-800-b42698e1f.jpg&quot; alt=&quot;Urban Brutality&quot; srcset=&quot;/generated/assets/images/urban_brutality/urban-brutality006-200-b42698e1f.jpg 200w, /generated/assets/images/urban_brutality/urban-brutality006-400-b42698e1f.jpg 400w, /generated/assets/images/urban_brutality/urban-brutality006-800-b42698e1f.jpg 800w&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.denbosch.nl/nl/projecten/spoorzone/de-tramkade&quot; target=&quot;_blank&quot;&gt;de Tramkade, ‘s-Hertogenbosch, The Netherlands&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Photography" /><category term="Architecture" /><summary type="html">@Tramkade in ‘s-Hertogenbosch</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/images/urban_brutality/urban-brutality002fb.jpg" /><media:content medium="image" url="https://onnozone.com/assets/images/urban_brutality/urban-brutality002fb.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">50th anniversary APOLLO 11</title><link href="https://onnozone.com/videos/space/2020/09/07/apollo-11-anniversary-50/" rel="alternate" type="text/html" title="50th anniversary APOLLO 11" /><published>2020-09-07T15:00:00+00:00</published><updated>2020-09-07T15:00:00+00:00</updated><id>https://onnozone.com/videos/space/2020/09/07/apollo-11-anniversary-50</id><content type="html" xml:base="https://onnozone.com/videos/space/2020/09/07/apollo-11-anniversary-50/">&lt;p&gt;I stayed up during the night to capture these…&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.denbosch.nl/nl/projecten/spoorzone/de-tramkade&quot; target=&quot;_blank&quot;&gt;de Tramkade, ‘s-Hertogenbosch, The Netherlands&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Photography" /><category term="Architecture" /><summary type="html">@Tramkade in ‘s-Hertogenbosch</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://onnozone.com/assets/images/urban_brutality/urban-brutality002fb.jpg" /><media:content medium="image" url="https://onnozone.com/assets/images/urban_brutality/urban-brutality002fb.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">50th anniversary APOLLO 11</title><link href="https://onnozone.com/videos/space/apollo-11-anniversary-50/" rel="alternate" type="text/html" title="50th anniversary APOLLO 11" /><published>2020-09-07T15:00:00+02:00</published><updated>2020-09-07T15:00:00+02:00</updated><id>https://onnozone.com/videos/space/apollo-11-anniversary-50</id><content type="html" xml:base="https://onnozone.com/videos/space/apollo-11-anniversary-50/">&lt;p&gt;I stayed up during the night to capture these…&lt;/p&gt;
 
 &lt;!--more--&gt;
 
