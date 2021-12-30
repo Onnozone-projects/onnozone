@@ -7,7 +7,7 @@ youtube_channelname: YouTube
 instagram_userid: onnozone
 instagram_username: Instagram
 description: >- # this means to ignore newlines until next parameter
-  Onnozone is the creative makerspace of Onno Heesbeen © 2020
+  Creative makerspace of Onno Heesbeen © 2020
 # baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://onnozone.com"
 
