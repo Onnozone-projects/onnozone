@@ -3,12 +3,41 @@
     <title>Onnozone</title>
     <link href="https://onnozone.com/feed.xml" rel="self" />
     <link href="https://onnozone.com" />
-    <updated>2022-01-15T17:33:32+01:00</updated>
+    <updated>2022-01-16T13:38:58+01:00</updated>
     <author>
         <name>Onno Heesbeen</name>
     </author>
     <id>https://onnozone.com</id>
 
+    <entry>
+        <title>QE2 entering the lock in IJmuiden</title>
+        <author>
+            <name>Onno Heesbeen</name>
+        </author>
+        <link href="https://onnozone.com/qe2-entering-the-lock-in-ijmuiden/"/>
+        <id>https://onnozone.com/qe2-entering-the-lock-in-ijmuiden/</id>
+            <category term="Ships"/>
+            <category term="Photography"/>
+
+        <updated>2022-01-16T13:38:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://onnozone.com/media/posts/36/271996906_10158475139952747_4430878826611368368_n.jpg" alt="" />
+                    <p>It's always an impressive sight to see a large ship maneuvering inside the lock.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://onnozone.com/media/posts/36/271996906_10158475139952747_4430878826611368368_n.jpg" alt="" />
+                <p>It's always an impressive sight to see a large ship maneuvering inside the lock.</p>
+
+<p>Although QE2 is/was not the biggest ship to fit in there it was nonetheless the most epic one. Later this month the newly built and larger replacement lock will be officially opened.</p>
+<figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/36/271851880_440508161105557_5812113491615461459_n.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-xs.jpg 300w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-sm.jpg 480w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-md.jpg 768w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-xl.jpg 1200w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-xxl.jpg 1600w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-xxxl.jpg 2560w"  alt="" width="1100" height="764"></figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/_6IyBPg1KHs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Astor, that little 80’s ship</title>
         <author>
@@ -280,38 +309,6 @@
 <p>For the 20th anniversary of me starting maritime photography.</p>
 <p>I could not let this occasion slip by unnoticed and to celebrate with everyone I’m releasing a high quality black and white photo book with a personal selection of my favorite photos and ships I made over the years.</p>
 <figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/11/photobook1.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/11/responsive/photobook1-xs.jpg 300w ,https://onnozone.com/media/posts/11/responsive/photobook1-sm.jpg 480w ,https://onnozone.com/media/posts/11/responsive/photobook1-md.jpg 768w ,https://onnozone.com/media/posts/11/responsive/photobook1-xl.jpg 1200w ,https://onnozone.com/media/posts/11/responsive/photobook1-xxl.jpg 1600w ,https://onnozone.com/media/posts/11/responsive/photobook1-xxxl.jpg 2560w"  alt="" width="1400" height="935"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Studio update</title>
-        <author>
-            <name>Onno Heesbeen</name>
-        </author>
-        <link href="https://onnozone.com/studio-update/"/>
-        <id>https://onnozone.com/studio-update/</id>
-            <category term="HERO"/>
-            <category term="Articles"/>
-
-        <updated>2022-01-15T17:33:12+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://onnozone.com/media/posts/12/articles001_01.jpg" alt="" />
-                    <p>Look behind the scenes.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://onnozone.com/media/posts/12/articles001_01.jpg" alt="" />
-                <p>Look behind the scenes.</p>
-
-<p>The new home studio and digital photo lab are open for business!</p>
-<p>Took out the old celluloid negatives from the archives, now I can resume the digitizing and restoration process.</p>
-<div class="gallery-wrapper gallery-wrapper--full"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/12//gallery/articles001_02.jpg" data-size="1200x801"><img loading="lazy" src="https://onnozone.com/media/posts/12//gallery/articles001_02-thumbnail.jpg" alt="" width="768" height="513"></a></figure>
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/12//gallery/articles001_03.jpg" data-size="1200x800"><img loading="lazy" src="https://onnozone.com/media/posts/12//gallery/articles001_03-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-</div></div>
             ]]>
         </content>
     </entry>
