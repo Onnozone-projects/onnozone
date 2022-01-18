@@ -3,90 +3,12 @@
     <title>Onnozone</title>
     <link href="https://onnozone.com/feed.xml" rel="self" />
     <link href="https://onnozone.com" />
-    <updated>2022-01-18T14:12:53+01:00</updated>
+    <updated>2022-01-18T15:36:55+01:00</updated>
     <author>
         <name>Onno Heesbeen</name>
     </author>
     <id>https://onnozone.com</id>
 
-    <entry>
-        <title>Triptych Raffaello 1965</title>
-        <author>
-            <name>Onno Heesbeen</name>
-        </author>
-        <link href="https://onnozone.com/triptych-raffaello-1965/"/>
-        <id>https://onnozone.com/triptych-raffaello-1965/</id>
-            <category term="Shop"/>
-
-        <updated>2022-01-18T14:12:53+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://onnozone.com/media/posts/40/trip_raf001b.jpg" alt="" />
-                     
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://onnozone.com/media/posts/40/trip_raf001b.jpg" alt="" />
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/40//gallery/trip_raf001b.jpg" data-size="955x606"><img loading="lazy" src="https://onnozone.com/media/posts/40//gallery/trip_raf001b-thumbnail.jpg" alt="" width="768" height="487"></a></figure>
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/40//gallery/trip_raf002.jpg" data-size="1124x533"><img loading="lazy" src="https://onnozone.com/media/posts/40//gallery/trip_raf002-thumbnail.jpg" alt="" width="768" height="364"></a></figure>
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/40//gallery/trip_raf003b.jpg" data-size="562x533"><img loading="lazy" src="https://onnozone.com/media/posts/40//gallery/trip_raf003b-thumbnail.jpg" alt="" width="562" height="533"></a></figure>
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/40//gallery/trip_raf004a.jpg" data-size="562x533"><img loading="lazy" src="https://onnozone.com/media/posts/40//gallery/trip_raf004a-thumbnail.jpg" alt="" width="562" height="533"></a></figure>
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/40//gallery/trip_raf004b.jpg" data-size="562x533"><img loading="lazy" src="https://onnozone.com/media/posts/40//gallery/trip_raf004b-thumbnail.jpg" alt="" width="562" height="533"></a></figure>
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/40//gallery/trip_raf005.jpg" data-size="1124x533"><img loading="lazy" src="https://onnozone.com/media/posts/40//gallery/trip_raf005-thumbnail.jpg" alt="" width="768" height="364"></a></figure>
-</div></div>
-<p> </p>
-<div id="paypal-checkout" class="paypal-button"> </div>
-<p>
-<script>
-(function(){
-  function onFail() {
-    alert('Transaction has failed! No funds has been transfered to Onnozone. Support is available at the Support page.');
-    location.reload();
-  };
-  paypal.Buttons({
-    style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
-    createOrder: function(data, actions) {
-      return actions.order.create({
-        purchase_units: [{
-          amount: {
-            value: '170', currency_code: 'EUR',
-            breakdown: { item_total: { value: '170', currency_code: 'EUR' }}
-          },
-          description: 'Triptych Raffaello 1965',
-          items: [{
-            name: 'Triptych Raffaello 1965',
-            unit_amount: { value: '170', currency_code: 'EUR' },
-            quantity: '1',
-            sku: 'CAN001',
-            description: '3 separate canvases 50x70cm, full color, wall mounting system included',
-            category: 'PHYSICAL_GOODS'
-          }]
-        }]
-      });
-    },
-    onApprove: function (data, actions) {
-      document.getElementById('paypal-checkout').className += ' processing';
-      var pending = true;
-      window.onbeforeunload = function() {
-          return pending ? "PLEASE, stay on this page for the payment processig to be completed!" : null;
-      };
-      return actions.order.capture().then(function(details) {
-        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details));
-        pending = false;
-        location.assign('/order-complete?order=' + details.id);
-      });
-    },
-    onCancel: onFail,
-    onError: onFail
-  }).render('#paypal-checkout');
-})();
-</script>
-</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>QE2 entering the lock in IJmuiden</title>
         <author>
@@ -221,7 +143,7 @@
             <category term="Photography"/>
             <category term="Architecture"/>
 
-        <updated>2022-01-15T15:46:56+01:00</updated>
+        <updated>2022-01-18T15:36:55+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/9/architecture002.jpg" alt="" />
@@ -358,6 +280,35 @@
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/2/gallery/discovery_shoot003.jpg" data-size="1200x1195"><img loading="lazy" src="https://onnozone.com/media/posts/2/gallery/discovery_shoot003-thumbnail.jpg" alt="" width="768" height="765"></a></figure>
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/2/gallery/discovery_shoot004.jpg" data-size="1200x1200"><img loading="lazy" src="https://onnozone.com/media/posts/2/gallery/discovery_shoot004-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 </div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>The Photo Book</title>
+        <author>
+            <name>Onno Heesbeen</name>
+        </author>
+        <link href="https://onnozone.com/the-photo-book/"/>
+        <id>https://onnozone.com/the-photo-book/</id>
+            <category term="Photography"/>
+            <category term="HERO"/>
+
+        <updated>2022-01-15T17:33:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://onnozone.com/media/posts/11/photobook2-2.jpg" alt="" />
+                    <p>High quality black and white photo book with a personal selection of my favorite photos and ships I made over the years.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://onnozone.com/media/posts/11/photobook2-2.jpg" alt="" />
+                <p>High quality black and white photo book with a personal selection of my favorite photos and ships I made over the years.</p>
+
+<p>For the 20th anniversary of me starting maritime photography.</p>
+<p>I could not let this occasion slip by unnoticed and to celebrate with everyone I’m releasing a high quality black and white photo book with a personal selection of my favorite photos and ships I made over the years.</p>
+<figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/11/photobook1.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/11/responsive/photobook1-xs.jpg 300w ,https://onnozone.com/media/posts/11/responsive/photobook1-sm.jpg 480w ,https://onnozone.com/media/posts/11/responsive/photobook1-md.jpg 768w ,https://onnozone.com/media/posts/11/responsive/photobook1-xl.jpg 1200w ,https://onnozone.com/media/posts/11/responsive/photobook1-xxl.jpg 1600w ,https://onnozone.com/media/posts/11/responsive/photobook1-xxxl.jpg 2560w"  alt="" width="1400" height="935"></figure>
             ]]>
         </content>
     </entry>
