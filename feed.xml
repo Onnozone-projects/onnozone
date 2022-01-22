@@ -3,12 +3,46 @@
     <title>Onnozone</title>
     <link href="https://onnozone.com/feed.xml" rel="self" />
     <link href="https://onnozone.com" />
-    <updated>2022-01-18T15:36:55+01:00</updated>
+    <updated>2022-01-22T23:44:58+01:00</updated>
     <author>
         <name>Onno Heesbeen</name>
     </author>
     <id>https://onnozone.com</id>
 
+    <entry>
+        <title>Design evolution ss Rotterdam</title>
+        <author>
+            <name>Onno Heesbeen</name>
+        </author>
+        <link href="https://onnozone.com/sneak-preview-design-evolution-ss-rotterdam/"/>
+        <id>https://onnozone.com/sneak-preview-design-evolution-ss-rotterdam/</id>
+            <category term="Ships"/>
+            <category term="Illustrations"/>
+            <category term="HERO"/>
+            <category term="Articles"/>
+
+        <updated>2022-01-22T23:44:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://onnozone.com/media/posts/44/teaser1-3-2.jpg" alt="" />
+                    <p>A sneak preview of an amazing project and study oportunity.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://onnozone.com/media/posts/44/teaser1-3-2.jpg" alt="" />
+                <p>A sneak preview of an amazing project and study oportunity.</p>
+
+<p>The last couple of months I've been involved in an exciting ss ROTTERDAM collaboration project initiated by author Nico Guns. For his new and comprehensive book series about the 1959 ss ROTTERDAM (published by GbooksInternational) I have been studying original sketches, concepts and plans for the ship and translated them into 3D models and visuals showing the design evolution that eventually led to this famous ocean liner. <img loading="lazy" src="https://onnozone.com/media/posts/44/teaser1-3-3.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xs.jpg 300w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-sm.jpg 480w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-md.jpg 768w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xl.jpg 1200w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xxl.jpg 1600w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xxxl.jpg 2560w"  alt="" width="1000" height="772"></p>
+<p>I can already share a couple of visuals I made of the final ss ROTTERDAM design. For many more illustrations, plans, sketches, photos and background information you will have to wait a little longer until the publication of “Vol. I = Planning and designs (1938-1958)” in early February.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/44/gallery/teaser1-2.jpg" data-size="1000x1000"><img loading="lazy" src="https://onnozone.com/media/posts/44/gallery/teaser1-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/44/gallery/teaser1-1.jpg" data-size="1000x1000"><img loading="lazy" src="https://onnozone.com/media/posts/44/gallery/teaser1-1-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>QE2 entering the lock in IJmuiden</title>
         <author>
@@ -280,35 +314,6 @@
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/2/gallery/discovery_shoot003.jpg" data-size="1200x1195"><img loading="lazy" src="https://onnozone.com/media/posts/2/gallery/discovery_shoot003-thumbnail.jpg" alt="" width="768" height="765"></a></figure>
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/2/gallery/discovery_shoot004.jpg" data-size="1200x1200"><img loading="lazy" src="https://onnozone.com/media/posts/2/gallery/discovery_shoot004-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Photo Book</title>
-        <author>
-            <name>Onno Heesbeen</name>
-        </author>
-        <link href="https://onnozone.com/the-photo-book/"/>
-        <id>https://onnozone.com/the-photo-book/</id>
-            <category term="Photography"/>
-            <category term="HERO"/>
-
-        <updated>2022-01-15T17:33:32+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://onnozone.com/media/posts/11/photobook2-2.jpg" alt="" />
-                    <p>High quality black and white photo book with a personal selection of my favorite photos and ships I made over the years.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://onnozone.com/media/posts/11/photobook2-2.jpg" alt="" />
-                <p>High quality black and white photo book with a personal selection of my favorite photos and ships I made over the years.</p>
-
-<p>For the 20th anniversary of me starting maritime photography.</p>
-<p>I could not let this occasion slip by unnoticed and to celebrate with everyone I’m releasing a high quality black and white photo book with a personal selection of my favorite photos and ships I made over the years.</p>
-<figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/11/photobook1.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/11/responsive/photobook1-xs.jpg 300w ,https://onnozone.com/media/posts/11/responsive/photobook1-sm.jpg 480w ,https://onnozone.com/media/posts/11/responsive/photobook1-md.jpg 768w ,https://onnozone.com/media/posts/11/responsive/photobook1-xl.jpg 1200w ,https://onnozone.com/media/posts/11/responsive/photobook1-xxl.jpg 1600w ,https://onnozone.com/media/posts/11/responsive/photobook1-xxxl.jpg 2560w"  alt="" width="1400" height="935"></figure>
             ]]>
         </content>
     </entry>

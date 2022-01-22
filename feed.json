@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://onnozone.com/sneak-preview-design-evolution-ss-rotterdam/",
+            "url": "https://onnozone.com/sneak-preview-design-evolution-ss-rotterdam/",
+            "title": "Design evolution ss Rotterdam",
+            "summary": "<p>A sneak preview of an amazing project and study oportunity.</p>\n",
+            "content_html": "<p>A sneak preview of an amazing project and study oportunity.</p>\n\n<p>The last couple of months I've been involved in an exciting ss ROTTERDAM collaboration project initiated by author Nico Guns. For his new and comprehensive book series about the 1959 ss ROTTERDAM (published by GbooksInternational) I have been studying original sketches, concepts and plans for the ship and translated them into 3D models and visuals showing the design evolution that eventually led to this famous ocean liner. <img loading=\"lazy\" src=\"https://onnozone.com/media/posts/44/teaser1-3-3.jpg\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xs.jpg 300w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-sm.jpg 480w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-md.jpg 768w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xl.jpg 1200w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xxl.jpg 1600w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xxxl.jpg 2560w\"  alt=\"\" width=\"1000\" height=\"772\"></p>\n<p>I can already share a couple of visuals I made of the final ss ROTTERDAM design. For many more illustrations, plans, sketches, photos and background information you will have to wait a little longer until the publication of “Vol. I = Planning and designs (1938-1958)” in early February.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://onnozone.com/media/posts/44/gallery/teaser1-2.jpg\" data-size=\"1000x1000\"><img loading=\"lazy\" src=\"https://onnozone.com/media/posts/44/gallery/teaser1-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://onnozone.com/media/posts/44/gallery/teaser1-1.jpg\" data-size=\"1000x1000\"><img loading=\"lazy\" src=\"https://onnozone.com/media/posts/44/gallery/teaser1-1-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>",
+            "image": "https://onnozone.com/media/posts/44/teaser1-3-2.jpg",
+            "author": {
+                "name": "Onno Heesbeen"
+            },
+            "tags": [
+                   "Ships",
+                   "Illustrations",
+                   "HERO",
+                   "Articles"
+            ],
+            "date_published": "2022-01-22T21:41:13+01:00",
+            "date_modified": "2022-01-22T23:44:58+01:00"
+        },
+        {
             "id": "https://onnozone.com/qe2-entering-the-lock-in-ijmuiden/",
             "url": "https://onnozone.com/qe2-entering-the-lock-in-ijmuiden/",
             "title": "QE2 entering the lock in IJmuiden",
@@ -162,23 +181,6 @@
             ],
             "date_published": "2020-09-07T00:02:00+02:00",
             "date_modified": "2022-01-15T15:49:47+01:00"
-        },
-        {
-            "id": "https://onnozone.com/the-photo-book/",
-            "url": "https://onnozone.com/the-photo-book/",
-            "title": "The Photo Book",
-            "summary": "<p>High quality black and white photo book with a personal selection of my favorite photos and ships I made over the years.</p>\n",
-            "content_html": "<p>High quality black and white photo book with a personal selection of my favorite photos and ships I made over the years.</p>\n\n<p>For the 20th anniversary of me starting maritime photography.</p>\n<p>I could not let this occasion slip by unnoticed and to celebrate with everyone I’m releasing a high quality black and white photo book with a personal selection of my favorite photos and ships I made over the years.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://onnozone.com/media/posts/11/photobook1.jpg\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://onnozone.com/media/posts/11/responsive/photobook1-xs.jpg 300w ,https://onnozone.com/media/posts/11/responsive/photobook1-sm.jpg 480w ,https://onnozone.com/media/posts/11/responsive/photobook1-md.jpg 768w ,https://onnozone.com/media/posts/11/responsive/photobook1-xl.jpg 1200w ,https://onnozone.com/media/posts/11/responsive/photobook1-xxl.jpg 1600w ,https://onnozone.com/media/posts/11/responsive/photobook1-xxxl.jpg 2560w\"  alt=\"\" width=\"1400\" height=\"935\"></figure>",
-            "image": "https://onnozone.com/media/posts/11/photobook2-2.jpg",
-            "author": {
-                "name": "Onno Heesbeen"
-            },
-            "tags": [
-                   "Photography",
-                   "HERO"
-            ],
-            "date_published": "2020-09-04T11:25:00+02:00",
-            "date_modified": "2022-01-15T17:33:32+01:00"
         }
     ]
 }
