@@ -3,41 +3,49 @@
     <title>Onnozone</title>
     <link href="https://onnozone.com/feed.xml" rel="self" />
     <link href="https://onnozone.com" />
-    <updated>2022-09-26T15:01:52+02:00</updated>
+    <updated>2022-10-09T11:15:41+02:00</updated>
     <author>
         <name>Onno Heesbeen</name>
     </author>
     <id>https://onnozone.com</id>
 
     <entry>
-        <title>Print ss GALILEO GALILEI 1963</title>
+        <title>Print ms PRINCESS ITALIA 1967</title>
         <author>
             <name>Onno Heesbeen</name>
         </author>
-        <link href="https://onnozone.com/print-ss-galileo-galilei-1963/"/>
-        <id>https://onnozone.com/print-ss-galileo-galilei-1963/</id>
+        <link href="https://onnozone.com/print-ms-princess-italia-1967/"/>
+        <id>https://onnozone.com/print-ms-princess-italia-1967/</id>
             <category term="Shop"/>
             <category term="Ships"/>
             <category term="Illustrations"/>
+            <category term="HERO"/>
 
-        <updated>2022-09-26T14:58:02+02:00</updated>
+        <updated>2022-10-09T11:15:41+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://onnozone.com/media/posts/52/print_gal001-2.jpg" alt="" />
-                     Detailed profile illustration of the elegant Lloyd Triestino liner. The GALILEO GALILEI (named after the famous astronomer) entered&hellip;
+                        <img src="https://onnozone.com/media/posts/55/print_ita004.jpg" alt="" />
+                    Appreciating the design of this Italian beauty, it was a lot of fun drawing her lines and making this&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://onnozone.com/media/posts/52/print_gal001-2.jpg" alt="" />
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/52/print_gal001.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/52/responsive/print_gal001-xs.jpg 300w ,https://onnozone.com/media/posts/52/responsive/print_gal001-sm.jpg 480w ,https://onnozone.com/media/posts/52/responsive/print_gal001-md.jpg 768w ,https://onnozone.com/media/posts/52/responsive/print_gal001-xl.jpg 1200w ,https://onnozone.com/media/posts/52/responsive/print_gal001-xxl.jpg 1600w ,https://onnozone.com/media/posts/52/responsive/print_gal001-xxxl.jpg 2560w"  alt="" width="1200" height="800"></figure>
-<p>Detailed profile illustration of the elegant Lloyd Triestino liner.<br>The GALILEO GALILEI (named after the famous astronomer) entered service in 1963 and is a perfect example of Italian design and beauty.</p>
+                    <img src="https://onnozone.com/media/posts/55/print_ita004.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/55/print_ita001-2.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/55/responsive/print_ita001-2-xs.jpg 300w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-sm.jpg 480w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-md.jpg 768w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-xl.jpg 1200w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-xxl.jpg 1600w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-xxxl.jpg 2560w"  alt="" width="1200" height="800"></figure>Appreciating the design of this Italian beauty, it was a lot of fun drawing her lines and making this detailed profile artwork.</p>
+<p>The Italia was one of the first purpose built cruise ships and styled like a yacht for the jetset with extravagant Italian designed interiors.</p>
+<p>She had a long and fascinating career sailing for different operators like the Costa Line and Princess Cruises. </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/52/gallery/print_gal002.jpg" data-size="1200x800"><img loading="lazy" src="https://onnozone.com/media/posts/52/gallery/print_gal002-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/52/gallery/print_gal003.jpg" data-size="1000x667"><img loading="lazy" src="https://onnozone.com/media/posts/52/gallery/print_gal003-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/55/gallery/print_ita002.jpg" data-size="1200x800"><img loading="lazy" src="https://onnozone.com/media/posts/55/gallery/print_ita002-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/55/gallery/print_ita003.jpg" data-size="1200x800"><img loading="lazy" src="https://onnozone.com/media/posts/55/gallery/print_ita003-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
 <aside class="post__aside">
-<h6>€12.50 per print (shipping included)</h6>
+<h6>from €12.50 (shipping included)</h6>
+<select id="item-options">
+<option value="1-12.50">1 card for €12.50</option>
+<option value="2-24.00">2 cards for €24.00</option>
+<option value="5-58.00">5 cards for €58.00</option>
+<option value="10-110.00">10 cards for €110.00</option>
+</select>
 <div id="paypal-checkout"> </div>
 </aside>
 <h6>Limited Edition</h6>
@@ -51,24 +59,125 @@
 <p>
 <script>
 (function(){
-  function onFail() {
-    alert('Transaction has failed! No funds has been transfered to Onnozone. Support is available at the Support page.');
-    location.reload();
-  };
+
   paypal.Buttons({
     style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
     createOrder: function(data, actions) {
+    option = document.getElementById("item-options").value.split("-");
+    quantity = option[0];
+    total_value = option[1];
+    unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
+    console.log(quantity, total_value, unit_value);
+    
       return actions.order.create({
         purchase_units: [{
           amount: {
-            value: '12.50', currency_code: 'EUR',
-            breakdown: { item_total: { value: '12.50', currency_code: 'EUR' }}
+            value: total_value, currency_code: 'EUR',
+            breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}
+          },
+          description: 'Print ms PRINCESS ITALIA 1967',
+          items: [{
+            name: 'Print ms PRINCESS ITALIA 1967',
+            unit_amount: { value: unit_value, currency_code: 'EUR' },
+            quantity: quantity,
+            sku: 'CARD-003',
+            description: 'Size: 21 x 10 cm, Printed in full color',
+            category: 'PHYSICAL_GOODS'
+          }]
+        }]
+      });
+    },
+    onApprove: function (data, actions) {
+      document.getElementById('paypal-checkout').className += ' processing';
+      var pending = true;
+      window.onbeforeunload = function() {
+          return pending ? "PLEASE, stay on this page for the payment processig to be completed!" : null;
+      };
+      return actions.order.capture().then(function(details) {
+        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details));
+        pending = false;
+        location.assign('/order-complete?order=' + details.id);
+      });
+    },
+    onCancel: onFail,
+    onError: onFail
+  }).render('#paypal-checkout');
+})();
+</script>
+</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Print ss GALILEO GALILEI 1963</title>
+        <author>
+            <name>Onno Heesbeen</name>
+        </author>
+        <link href="https://onnozone.com/print-ss-galileo-galilei-1963/"/>
+        <id>https://onnozone.com/print-ss-galileo-galilei-1963/</id>
+            <category term="Shop"/>
+            <category term="Ships"/>
+            <category term="Illustrations"/>
+            <category term="HERO"/>
+
+        <updated>2022-10-09T11:12:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://onnozone.com/media/posts/52/print_gal004.jpg" alt="" />
+                     Detailed profile illustration of the elegant Lloyd Triestino liner. The GALILEO GALILEI (named after the famous astronomer) entered&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://onnozone.com/media/posts/52/print_gal004.jpg" alt="" />
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/52/print_gal001.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/52/responsive/print_gal001-xs.jpg 300w ,https://onnozone.com/media/posts/52/responsive/print_gal001-sm.jpg 480w ,https://onnozone.com/media/posts/52/responsive/print_gal001-md.jpg 768w ,https://onnozone.com/media/posts/52/responsive/print_gal001-xl.jpg 1200w ,https://onnozone.com/media/posts/52/responsive/print_gal001-xxl.jpg 1600w ,https://onnozone.com/media/posts/52/responsive/print_gal001-xxxl.jpg 2560w"  alt="" width="1200" height="800"></figure>
+<p>Detailed profile illustration of the elegant Lloyd Triestino liner.<br>The GALILEO GALILEI (named after the famous astronomer) entered service in 1963 and is a perfect example of Italian design and beauty.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/52/gallery/print_gal002.jpg" data-size="1200x800"><img loading="lazy" src="https://onnozone.com/media/posts/52/gallery/print_gal002-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/52/gallery/print_gal003.jpg" data-size="1000x667"><img loading="lazy" src="https://onnozone.com/media/posts/52/gallery/print_gal003-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+<aside class="post__aside">
+<h6>from €12.50 (shipping included)</h6>
+<select id="item-options">
+<option value="1-12.50">1 card for €12.50</option>
+<option value="2-24.00">2 cards for €24.00</option>
+<option value="5-58.00">5 cards for €58.00</option>
+<option value="10-110.00">10 cards for €110.00</option>
+</select>
+<div id="paypal-checkout"> </div>
+</aside>
+<h6>Limited Edition</h6>
+<p>Only 100 prints are produced and each print is hand numbered and signed.</p>
+<h6>Specifications:</h6>
+<ul>
+<li>size: 21 x 10 cm</li>
+<li>printed in full color</li>
+</ul>
+<p>World wide shipping already included in the price.</p>
+<p>
+<script>
+(function(){
+
+  paypal.Buttons({
+    style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
+    createOrder: function(data, actions) {
+    option = document.getElementById("item-options").value.split("-");
+    quantity = option[0];
+    total_value = option[1];
+    unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
+    console.log(quantity, total_value, unit_value);
+    
+      return actions.order.create({
+        purchase_units: [{
+          amount: {
+            value: total_value, currency_code: 'EUR',
+            breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}
           },
           description: 'Print ss GALILEO GALILEI 1963',
           items: [{
             name: 'Print ss GALILEO GALILEI 1963',
-            unit_amount: { value: '12.50', currency_code: 'EUR' },
-            quantity: '1',
+            unit_amount: { value: unit_value, currency_code: 'EUR' },
+            quantity: quantity,
             sku: 'CARD-002',
             description: 'Size: 21 x 10 cm, Printed in full color',
             category: 'PHYSICAL_GOODS'
@@ -344,7 +453,7 @@
             <category term="Ships"/>
             <category term="Illustrations"/>
 
-        <updated>2022-09-26T14:20:34+02:00</updated>
+        <updated>2022-10-09T10:53:28+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/47/print_amb004.jpg" alt="" />
@@ -376,10 +485,6 @@
 <p>
 <script>
 (function(){
-  function onFail() {
-    alert('Transaction has failed! No funds has been transfered to Onnozone. Support is available at the Support page.');
-    location.reload();
-  };
   paypal.Buttons({
     style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
     createOrder: function(data, actions) {
@@ -533,37 +638,6 @@
 <p>Although QE2 is/was not the biggest ship to fit in there it was nonetheless the most epic one. Later this month the newly built and larger replacement lock will be officially opened.</p>
 <figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/36/271851880_440508161105557_5812113491615461459_n.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-xs.jpg 300w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-sm.jpg 480w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-md.jpg 768w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-xl.jpg 1200w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-xxl.jpg 1600w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-xxxl.jpg 2560w"  alt="" width="1100" height="764"></figure>
 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/_6IyBPg1KHs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Astor, that little 80’s ship</title>
-        <author>
-            <name>Onno Heesbeen</name>
-        </author>
-        <link href="https://onnozone.com/astor-that-little-80s-ship/"/>
-        <id>https://onnozone.com/astor-that-little-80s-ship/</id>
-            <category term="Ships"/>
-            <category term="Photography"/>
-
-        <updated>2022-01-15T15:50:05+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://onnozone.com/media/posts/1/astor004.jpg" alt="" />
-                    Unfortunately 2020 made an end to the little ms Astor from 1987, she had a nice career under different&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://onnozone.com/media/posts/1/astor004.jpg" alt="" />
-                <p>Unfortunately 2020 made an end to the little ms Astor from 1987, she had a nice career under different operators. I had the opportunity to photograph her arriving in Amsterdam in 2013.</p>
-<p>Here’s a selection from the photoshoot, enjoy!</p>
-<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/1//gallery/astor001.jpg" data-size="802x535"><img loading="lazy" src="https://onnozone.com/media/posts/1//gallery/astor001-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/1//gallery/astor002.jpg" data-size="799x532"><img loading="lazy" src="https://onnozone.com/media/posts/1//gallery/astor002-thumbnail.jpg" alt="" width="768" height="511"></a></figure>
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/1//gallery/astor003.jpg" data-size="802x535"><img loading="lazy" src="https://onnozone.com/media/posts/1//gallery/astor003-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/1//gallery/astor004.jpg" data-size="535x802"><img loading="lazy" src="https://onnozone.com/media/posts/1//gallery/astor004-thumbnail.jpg" alt="" width="535" height="802"></a></figure>
-</div></div>
             ]]>
         </content>
     </entry>
