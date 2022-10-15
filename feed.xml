@@ -3,12 +3,119 @@
     <title>Onnozone</title>
     <link href="https://onnozone.com/feed.xml" rel="self" />
     <link href="https://onnozone.com" />
-    <updated>2022-10-09T11:15:41+02:00</updated>
+    <updated>2022-10-15T14:30:18+02:00</updated>
     <author>
         <name>Onno Heesbeen</name>
     </author>
     <id>https://onnozone.com</id>
 
+    <entry>
+        <title>Print ss ROTTERDAM 1959</title>
+        <author>
+            <name>Onno Heesbeen</name>
+        </author>
+        <link href="https://onnozone.com/print-ms-rotterdam-1959/"/>
+        <id>https://onnozone.com/print-ms-rotterdam-1959/</id>
+            <category term="Shop"/>
+            <category term="Ships"/>
+            <category term="Illustrations"/>
+            <category term="HERO"/>
+
+        <updated>2022-10-15T14:30:18+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://onnozone.com/media/posts/56/print_rot004.jpg" alt="" />
+                     Illustrating this icon of Dutch engineering and design of the 1950’s was a real privilege. For years the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://onnozone.com/media/posts/56/print_rot004.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/56/gallery/print_rot001-2.jpg" data-size="1200x800"><img loading="lazy" src="https://onnozone.com/media/posts/56/gallery/print_rot001-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+<p>Illustrating this icon of Dutch engineering and design of the 1950’s was a real privilege.</p>
+<p>For years the ss ROTTERDAM was the flagship of the Holland America Line, loved by her passengers and the city Rotterdam after which the is named. Luckily this piece of Dutch industrial heritage returned to her home port and is open for the general public to visit and enjoy.</p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="4">
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/56/gallery/print_rot002.jpg" data-size="1200x800"><img loading="lazy" src="https://onnozone.com/media/posts/56/gallery/print_rot002-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/56/gallery/print_rot003.jpg" data-size="1200x800"><img loading="lazy" src="https://onnozone.com/media/posts/56/gallery/print_rot003-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/56/gallery/print_rot004.jpg" data-size="800x1200"><img loading="lazy" src="https://onnozone.com/media/posts/56/gallery/print_rot004-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/56/gallery/print_rot005.jpg" data-size="800x1200"><img loading="lazy" src="https://onnozone.com/media/posts/56/gallery/print_rot005-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+</div></div>
+<aside class="post__aside">
+<h6>from €12.50 (shipping included)</h6>
+<select id="item-options">
+<option value="1-12.50">1 card for €12.50</option>
+<option value="2-24.00">2 cards for €24.00</option>
+<option value="5-58.00">5 cards for €58.00</option>
+<option value="10-110.00">10 cards for €110.00</option>
+</select>
+<div id="paypal-checkout"> </div>
+</aside>
+<h6>Limited Edition</h6>
+<p>Only 100 prints are produced and each print is hand numbered and signed.</p>
+<h6>Specifications:</h6>
+<ul>
+<li>size: 21 x 10 cm</li>
+<li>printed in full color</li>
+</ul>
+<p>World wide shipping already included in the price.</p>
+<p>
+<script>
+(function(){
+
+  paypal.Buttons({
+    style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
+    createOrder: function(data, actions) {
+
+      item_sku='CARD-004';
+      item_name='Print ss ROTTERDAM 1959';
+      item_description='Size: 21 x 10 cm, Printed in full color';
+    
+      option = document.getElementById("item-options").value.split("-");
+      quantity = option[0];
+      total_value = option[1];
+      unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
+    
+      return actions.order.create({
+        purchase_units: [{
+          amount: {
+            value: total_value, currency_code: 'EUR',
+            breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}
+          },
+          description: quantity + ' x ' + item_name,
+          items: [{
+            name: item_name,
+            unit_amount: { value: unit_value, currency_code: 'EUR' },
+            quantity: quantity,
+            sku: item_sku,
+            description: item_description,
+            category: 'PHYSICAL_GOODS'
+          }]
+        }]
+      });
+    },
+    onApprove: function (data, actions) {
+      document.getElementById('paypal-checkout').className += ' processing';
+      var pending = true;
+      window.onbeforeunload = function() {
+          return pending ? "PLEASE, stay on this page for the payment processig to be completed!" : null;
+      };
+      return actions.order.capture().then(function(details) {
+        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details));
+        pending = false;
+        location.assign('/order-complete?order=' + details.id);
+      });
+    },
+    onCancel: onFail,
+    onError: onFail
+  }).render('#paypal-checkout');
+})();
+</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Print ms PRINCESS ITALIA 1967</title>
         <author>
@@ -21,7 +128,7 @@
             <category term="Illustrations"/>
             <category term="HERO"/>
 
-        <updated>2022-10-09T11:15:41+02:00</updated>
+        <updated>2022-10-15T12:03:05+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/55/print_ita004.jpg" alt="" />
@@ -63,11 +170,15 @@
   paypal.Buttons({
     style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
     createOrder: function(data, actions) {
-    option = document.getElementById("item-options").value.split("-");
-    quantity = option[0];
-    total_value = option[1];
-    unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
-    console.log(quantity, total_value, unit_value);
+
+      item_sku='CARD-003';
+      item_name='Print ms PRINCESS ITALIA 1967';
+      item_description='Size: 21 x 10 cm, Printed in full color';
+    
+      option = document.getElementById("item-options").value.split("-");
+      quantity = option[0];
+      total_value = option[1];
+      unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
     
       return actions.order.create({
         purchase_units: [{
@@ -75,13 +186,13 @@
             value: total_value, currency_code: 'EUR',
             breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}
           },
-          description: 'Print ms PRINCESS ITALIA 1967',
+          description: quantity + ' x ' + item_name,
           items: [{
-            name: 'Print ms PRINCESS ITALIA 1967',
+            name: item_name,
             unit_amount: { value: unit_value, currency_code: 'EUR' },
             quantity: quantity,
-            sku: 'CARD-003',
-            description: 'Size: 21 x 10 cm, Printed in full color',
+            sku: item_sku,
+            description: item_description,
             category: 'PHYSICAL_GOODS'
           }]
         }]
@@ -120,7 +231,7 @@
             <category term="Illustrations"/>
             <category term="HERO"/>
 
-        <updated>2022-10-09T11:12:33+02:00</updated>
+        <updated>2022-10-15T11:57:29+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/52/print_gal004.jpg" alt="" />
@@ -165,7 +276,6 @@
     quantity = option[0];
     total_value = option[1];
     unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
-    console.log(quantity, total_value, unit_value);
     
       return actions.order.create({
         purchase_units: [{
@@ -173,7 +283,7 @@
             value: total_value, currency_code: 'EUR',
             breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}
           },
-          description: 'Print ss GALILEO GALILEI 1963',
+          description: quantity + ' x Print ss GALILEO GALILEI 1963',
           items: [{
             name: 'Print ss GALILEO GALILEI 1963',
             unit_amount: { value: unit_value, currency_code: 'EUR' },
@@ -388,9 +498,8 @@
             <category term="Ships"/>
             <category term="Ship models"/>
             <category term="Modeling"/>
-            <category term="HERO"/>
 
-        <updated>2022-09-26T15:01:52+02:00</updated>
+        <updated>2022-10-15T12:03:44+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/48/model06.jpg" alt="" />
@@ -453,7 +562,7 @@
             <category term="Ships"/>
             <category term="Illustrations"/>
 
-        <updated>2022-10-09T10:53:28+02:00</updated>
+        <updated>2022-10-15T11:57:51+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/47/print_amb004.jpg" alt="" />
@@ -470,7 +579,13 @@
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/47/gallery/print_amb003.jpg" data-size="955x606"><img loading="lazy" src="https://onnozone.com/media/posts/47/gallery/print_amb003-thumbnail.jpg" alt="" width="768" height="487"></a></figure>
 </div></div>
 <aside class="post__aside">
-<h6>€12.50 per print (shipping included)</h6>
+<h6>from €12.50 (shipping included)</h6>
+<select id="item-options">
+<option value="1-12.50">1 card for €12.50</option>
+<option value="2-24.00">2 cards for €24.00</option>
+<option value="5-58.00">5 cards for €58.00</option>
+<option value="10-110.00">10 cards for €110.00</option>
+</select>
 <div id="paypal-checkout"> </div>
 </aside>
 <h6>Specifications:</h6>
@@ -488,17 +603,22 @@
   paypal.Buttons({
     style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
     createOrder: function(data, actions) {
+      option = document.getElementById("item-options").value.split("-");
+      quantity = option[0];
+      total_value = option[1];
+      unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
+      
       return actions.order.create({
         purchase_units: [{
           amount: {
-            value: '12.50', currency_code: 'EUR',
-            breakdown: { item_total: { value: '12.50', currency_code: 'EUR' }}
+            value: total_value, currency_code: 'EUR',
+            breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}
           },
-          description: 'Print ms Ambience',
+          description: quantity + ' x Print ms Ambience',
           items: [{
             name: 'Print ms Ambience',
-            unit_amount: { value: '12.50', currency_code: 'EUR' },
-            quantity: '1',
+            unit_amount: { value: unit_value, currency_code: 'EUR' },
+            quantity: quantity,
             sku: 'CARD-001',
             description: 'Size: 21 x 10 cm, Printed in full color',
             category: 'PHYSICAL_GOODS'
@@ -609,35 +729,6 @@
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/44/gallery/teaser1-2.jpg" data-size="1000x1000"><img loading="lazy" src="https://onnozone.com/media/posts/44/gallery/teaser1-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/44/gallery/teaser1-1.jpg" data-size="1000x1000"><img loading="lazy" src="https://onnozone.com/media/posts/44/gallery/teaser1-1-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 </div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>QE2 entering the lock in IJmuiden</title>
-        <author>
-            <name>Onno Heesbeen</name>
-        </author>
-        <link href="https://onnozone.com/qe2-entering-the-lock-in-ijmuiden/"/>
-        <id>https://onnozone.com/qe2-entering-the-lock-in-ijmuiden/</id>
-            <category term="Ships"/>
-            <category term="Photography"/>
-
-        <updated>2022-01-16T13:43:04+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://onnozone.com/media/posts/36/271996906_10158475139952747_4430878826611368368_n.jpg" alt="" />
-                    <p>It's always an impressive sight to see a large ship maneuvering inside the lock.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://onnozone.com/media/posts/36/271996906_10158475139952747_4430878826611368368_n.jpg" alt="" />
-                <p>It's always an impressive sight to see a large ship maneuvering inside the lock.</p>
-
-<p>Although QE2 is/was not the biggest ship to fit in there it was nonetheless the most epic one. Later this month the newly built and larger replacement lock will be officially opened.</p>
-<figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/36/271851880_440508161105557_5812113491615461459_n.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-xs.jpg 300w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-sm.jpg 480w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-md.jpg 768w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-xl.jpg 1200w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-xxl.jpg 1600w ,https://onnozone.com/media/posts/36/responsive/271851880_440508161105557_5812113491615461459_n-xxxl.jpg 2560w"  alt="" width="1100" height="764"></figure>
-<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/_6IyBPg1KHs" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
     </entry>
