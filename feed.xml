@@ -3,12 +3,116 @@
     <title>Onnozone</title>
     <link href="https://onnozone.com/feed.xml" rel="self" />
     <link href="https://onnozone.com" />
-    <updated>2022-10-15T14:30:18+02:00</updated>
+    <updated>2022-10-22T12:35:24+02:00</updated>
     <author>
         <name>Onno Heesbeen</name>
     </author>
     <id>https://onnozone.com</id>
 
+    <entry>
+        <title>Print ms PACIFIC PRINCESS 1975</title>
+        <author>
+            <name>Onno Heesbeen</name>
+        </author>
+        <link href="https://onnozone.com/print-ms-pacific-princess-1975/"/>
+        <id>https://onnozone.com/print-ms-pacific-princess-1975/</id>
+            <category term="Shop"/>
+            <category term="Ships"/>
+            <category term="Illustrations"/>
+            <category term="HERO"/>
+
+        <updated>2022-10-22T12:35:24+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://onnozone.com/media/posts/57/insta002.jpg" alt="" />
+                     In 1975 Princess Cruises acquired the PACIFIC PRINCESS (former SEA VENTURE). The ship soon would get cult status&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://onnozone.com/media/posts/57/insta002.jpg" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/57/fb001.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/57/responsive/fb001-xs.jpg 300w ,https://onnozone.com/media/posts/57/responsive/fb001-sm.jpg 480w ,https://onnozone.com/media/posts/57/responsive/fb001-md.jpg 768w ,https://onnozone.com/media/posts/57/responsive/fb001-xl.jpg 1200w ,https://onnozone.com/media/posts/57/responsive/fb001-xxl.jpg 1600w ,https://onnozone.com/media/posts/57/responsive/fb001-xxxl.jpg 2560w"  alt="" width="1400" height="933"></figure><br>In 1975 Princess Cruises acquired the PACIFIC PRINCESS (former SEA VENTURE). <br>The ship soon would get cult status when she and many famous actors starred in the TV show “The Love Boat”.</p>
+<p class="align-center"><em>“Come aboard, we're expecting you.”</em></p>
+<p>Its wonderful 70’s style design always fascinated me and it was a lot of fun drawing all the curves that make up this iconic ship. </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/57/gallery/print_ita004.jpg" data-size="1400x933"><img loading="lazy" src="https://onnozone.com/media/posts/57/gallery/print_ita004-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/57/gallery/print_ita003.jpg" data-size="1400x933"><img loading="lazy" src="https://onnozone.com/media/posts/57/gallery/print_ita003-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://onnozone.com/media/posts/57/gallery/print_ita002.jpg" data-size="1400x933"><img loading="lazy" src="https://onnozone.com/media/posts/57/gallery/print_ita002-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+<aside class="post__aside">
+<h6>from €12.50 (shipping included)</h6>
+<select id="item-options">
+<option value="1-12.50">1 card for €12.50</option>
+<option value="2-24.00">2 cards for €24.00</option>
+<option value="5-58.00">5 cards for €58.00</option>
+<option value="10-110.00">10 cards for €110.00</option>
+</select>
+<div id="paypal-checkout"> </div>
+</aside>
+<h6>Limited Edition</h6>
+<p>Only 100 prints are produced and each print is hand numbered and signed.</p>
+<h6>Specifications:</h6>
+<ul>
+<li>size: 21 x 10 cm</li>
+<li>printed in full color</li>
+</ul>
+<p>World wide shipping already included in the price.</p>
+<p>
+<script>
+(function(){
+
+  paypal.Buttons({
+    style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
+    createOrder: function(data, actions) {
+
+      item_sku='CARD-005';
+      item_name='Print ms PACIFIC PRINCESS 1975';
+      item_description='Size: 21 x 10 cm, Printed in full color';
+    
+      option = document.getElementById("item-options").value.split("-");
+      quantity = option[0];
+      total_value = option[1];
+      unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
+    
+      return actions.order.create({
+        purchase_units: [{
+          amount: {
+            value: total_value, currency_code: 'EUR',
+            breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}
+          },
+          description: quantity + ' x ' + item_name,
+          items: [{
+            name: item_name,
+            unit_amount: { value: unit_value, currency_code: 'EUR' },
+            quantity: quantity,
+            sku: item_sku,
+            description: item_description,
+            category: 'PHYSICAL_GOODS'
+          }]
+        }]
+      });
+    },
+    onApprove: function (data, actions) {
+      document.getElementById('paypal-checkout').className += ' processing';
+      var pending = true;
+      window.onbeforeunload = function() {
+          return pending ? "PLEASE, stay on this page for the payment processig to be completed!" : null;
+      };
+      return actions.order.capture().then(function(details) {
+        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details));
+        pending = false;
+        location.assign('/order-complete?order=' + details.id);
+      });
+    },
+    onCancel: onFail,
+    onError: onFail
+  }).render('#paypal-checkout');
+})();
+</script>
+</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Print ss ROTTERDAM 1959</title>
         <author>
@@ -696,39 +800,6 @@
 </div></div>
 <p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">Unfortunately the plaque next to the model did not mention who built it. It would be great to give them credit, if someone has more background information please send me a message so I can add it here. </span></p>
 <figure class="post__image"><img loading="lazy"  style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: 18.4px; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--primary-color-rgb), 0.55)  !important;" src="https://onnozone.com/media/posts/46/WillemRuys-large-17.JPG" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/46/responsive/WillemRuys-large-17-xs.JPG 300w ,https://onnozone.com/media/posts/46/responsive/WillemRuys-large-17-sm.JPG 480w ,https://onnozone.com/media/posts/46/responsive/WillemRuys-large-17-md.JPG 768w ,https://onnozone.com/media/posts/46/responsive/WillemRuys-large-17-xl.JPG 1200w ,https://onnozone.com/media/posts/46/responsive/WillemRuys-large-17-xxl.JPG 1600w ,https://onnozone.com/media/posts/46/responsive/WillemRuys-large-17-xxxl.JPG 2560w"  alt="" width="1000" height="665"></figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Design evolution ss Rotterdam</title>
-        <author>
-            <name>Onno Heesbeen</name>
-        </author>
-        <link href="https://onnozone.com/sneak-preview-design-evolution-ss-rotterdam/"/>
-        <id>https://onnozone.com/sneak-preview-design-evolution-ss-rotterdam/</id>
-            <category term="Ships"/>
-            <category term="Illustrations"/>
-            <category term="Articles"/>
-
-        <updated>2022-09-26T14:22:26+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://onnozone.com/media/posts/44/teaser1-3-2.jpg" alt="" />
-                    <p>A sneak preview of an amazing project and study oportunity.</p>
-
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://onnozone.com/media/posts/44/teaser1-3-2.jpg" alt="" />
-                <p>A sneak preview of an amazing project and study oportunity.</p>
-
-<p>The last couple of months I've been involved in an exciting ss ROTTERDAM collaboration project initiated by author Nico Guns. For his new and comprehensive book series about the 1959 ss ROTTERDAM (published by GbooksInternational) I have been studying original sketches, concepts and plans for the ship and translated them into 3D models and visuals showing the design evolution that eventually led to this famous ocean liner. <img loading="lazy" src="https://onnozone.com/media/posts/44/teaser1-3-3.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xs.jpg 300w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-sm.jpg 480w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-md.jpg 768w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xl.jpg 1200w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xxl.jpg 1600w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xxxl.jpg 2560w"  alt="" width="1000" height="772"></p>
-<p>I can already share a couple of visuals I made of the final ss ROTTERDAM design. For many more illustrations, plans, sketches, photos and background information you will have to wait a little longer until the publication of “Vol. I = Planning and designs (1938-1958)” in early February.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/44/gallery/teaser1-2.jpg" data-size="1000x1000"><img loading="lazy" src="https://onnozone.com/media/posts/44/gallery/teaser1-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://onnozone.com/media/posts/44/gallery/teaser1-1.jpg" data-size="1000x1000"><img loading="lazy" src="https://onnozone.com/media/posts/44/gallery/teaser1-1-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-</div></div>
             ]]>
         </content>
     </entry>

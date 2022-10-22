@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://onnozone.com/print-ms-pacific-princess-1975/",
+            "url": "https://onnozone.com/print-ms-pacific-princess-1975/",
+            "title": "Print ms PACIFIC PRINCESS 1975",
+            "summary": " In 1975 Princess Cruises acquired the PACIFIC PRINCESS (former SEA VENTURE). The ship soon would get cult status&hellip;",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://onnozone.com/media/posts/57/fb001.jpg\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://onnozone.com/media/posts/57/responsive/fb001-xs.jpg 300w ,https://onnozone.com/media/posts/57/responsive/fb001-sm.jpg 480w ,https://onnozone.com/media/posts/57/responsive/fb001-md.jpg 768w ,https://onnozone.com/media/posts/57/responsive/fb001-xl.jpg 1200w ,https://onnozone.com/media/posts/57/responsive/fb001-xxl.jpg 1600w ,https://onnozone.com/media/posts/57/responsive/fb001-xxxl.jpg 2560w\"  alt=\"\" width=\"1400\" height=\"933\"></figure><br>In 1975 Princess Cruises acquired the PACIFIC PRINCESS (former SEA VENTURE). <br>The ship soon would get cult status when she and many famous actors starred in the TV show “The Love Boat”.</p>\n<p class=\"align-center\"><em>“Come aboard, we're expecting you.”</em></p>\n<p>Its wonderful 70’s style design always fascinated me and it was a lot of fun drawing all the curves that make up this iconic ship. </p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://onnozone.com/media/posts/57/gallery/print_ita004.jpg\" data-size=\"1400x933\"><img loading=\"lazy\" src=\"https://onnozone.com/media/posts/57/gallery/print_ita004-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://onnozone.com/media/posts/57/gallery/print_ita003.jpg\" data-size=\"1400x933\"><img loading=\"lazy\" src=\"https://onnozone.com/media/posts/57/gallery/print_ita003-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://onnozone.com/media/posts/57/gallery/print_ita002.jpg\" data-size=\"1400x933\"><img loading=\"lazy\" src=\"https://onnozone.com/media/posts/57/gallery/print_ita002-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>\n<aside class=\"post__aside\">\n<h6>from €12.50 (shipping included)</h6>\n<select id=\"item-options\">\n<option value=\"1-12.50\">1 card for €12.50</option>\n<option value=\"2-24.00\">2 cards for €24.00</option>\n<option value=\"5-58.00\">5 cards for €58.00</option>\n<option value=\"10-110.00\">10 cards for €110.00</option>\n</select>\n<div id=\"paypal-checkout\"> </div>\n</aside>\n<h6>Limited Edition</h6>\n<p>Only 100 prints are produced and each print is hand numbered and signed.</p>\n<h6>Specifications:</h6>\n<ul>\n<li>size: 21 x 10 cm</li>\n<li>printed in full color</li>\n</ul>\n<p>World wide shipping already included in the price.</p>\n<p>\n<script>\n(function(){\n\n  paypal.Buttons({\n    style: { shape: 'pill', layout: 'vertical', label: 'checkout'},\n    createOrder: function(data, actions) {\n\n      item_sku='CARD-005';\n      item_name='Print ms PACIFIC PRINCESS 1975';\n      item_description='Size: 21 x 10 cm, Printed in full color';\n    \n      option = document.getElementById(\"item-options\").value.split(\"-\");\n      quantity = option[0];\n      total_value = option[1];\n      unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();\n    \n      return actions.order.create({\n        purchase_units: [{\n          amount: {\n            value: total_value, currency_code: 'EUR',\n            breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}\n          },\n          description: quantity + ' x ' + item_name,\n          items: [{\n            name: item_name,\n            unit_amount: { value: unit_value, currency_code: 'EUR' },\n            quantity: quantity,\n            sku: item_sku,\n            description: item_description,\n            category: 'PHYSICAL_GOODS'\n          }]\n        }]\n      });\n    },\n    onApprove: function (data, actions) {\n      document.getElementById('paypal-checkout').className += ' processing';\n      var pending = true;\n      window.onbeforeunload = function() {\n          return pending ? \"PLEASE, stay on this page for the payment processig to be completed!\" : null;\n      };\n      return actions.order.capture().then(function(details) {\n        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details));\n        pending = false;\n        location.assign('/order-complete?order=' + details.id);\n      });\n    },\n    onCancel: onFail,\n    onError: onFail\n  }).render('#paypal-checkout');\n})();\n</script>\n</p>",
+            "image": "https://onnozone.com/media/posts/57/insta002.jpg",
+            "author": {
+                "name": "Onno Heesbeen"
+            },
+            "tags": [
+                   "Shop",
+                   "Ships",
+                   "Illustrations",
+                   "HERO"
+            ],
+            "date_published": "2022-10-22T12:29:17+02:00",
+            "date_modified": "2022-10-22T12:35:24+02:00"
+        },
+        {
             "id": "https://onnozone.com/print-ms-rotterdam-1959/",
             "url": "https://onnozone.com/print-ms-rotterdam-1959/",
             "title": "Print ss ROTTERDAM 1959",
@@ -175,24 +194,6 @@
             ],
             "date_published": "2022-02-24T18:33:34+01:00",
             "date_modified": "2022-06-18T16:42:16+02:00"
-        },
-        {
-            "id": "https://onnozone.com/sneak-preview-design-evolution-ss-rotterdam/",
-            "url": "https://onnozone.com/sneak-preview-design-evolution-ss-rotterdam/",
-            "title": "Design evolution ss Rotterdam",
-            "summary": "<p>A sneak preview of an amazing project and study oportunity.</p>\n",
-            "content_html": "<p>A sneak preview of an amazing project and study oportunity.</p>\n\n<p>The last couple of months I've been involved in an exciting ss ROTTERDAM collaboration project initiated by author Nico Guns. For his new and comprehensive book series about the 1959 ss ROTTERDAM (published by GbooksInternational) I have been studying original sketches, concepts and plans for the ship and translated them into 3D models and visuals showing the design evolution that eventually led to this famous ocean liner. <img loading=\"lazy\" src=\"https://onnozone.com/media/posts/44/teaser1-3-3.jpg\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xs.jpg 300w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-sm.jpg 480w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-md.jpg 768w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xl.jpg 1200w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xxl.jpg 1600w ,https://onnozone.com/media/posts/44/responsive/teaser1-3-3-xxxl.jpg 2560w\"  alt=\"\" width=\"1000\" height=\"772\"></p>\n<p>I can already share a couple of visuals I made of the final ss ROTTERDAM design. For many more illustrations, plans, sketches, photos and background information you will have to wait a little longer until the publication of “Vol. I = Planning and designs (1938-1958)” in early February.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://onnozone.com/media/posts/44/gallery/teaser1-2.jpg\" data-size=\"1000x1000\"><img loading=\"lazy\" src=\"https://onnozone.com/media/posts/44/gallery/teaser1-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://onnozone.com/media/posts/44/gallery/teaser1-1.jpg\" data-size=\"1000x1000\"><img loading=\"lazy\" src=\"https://onnozone.com/media/posts/44/gallery/teaser1-1-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>",
-            "image": "https://onnozone.com/media/posts/44/teaser1-3-2.jpg",
-            "author": {
-                "name": "Onno Heesbeen"
-            },
-            "tags": [
-                   "Ships",
-                   "Illustrations",
-                   "Articles"
-            ],
-            "date_published": "2022-01-22T21:41:13+01:00",
-            "date_modified": "2022-09-26T14:22:26+02:00"
         }
     ]
 }
