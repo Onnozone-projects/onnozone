@@ -3,7 +3,7 @@
     <title>Onnozone</title>
     <link href="https://onnozone.com/feed.xml" rel="self" />
     <link href="https://onnozone.com" />
-    <updated>2022-10-22T12:35:24+02:00</updated>
+    <updated>2022-11-03T11:23:34+01:00</updated>
     <author>
         <name>Onno Heesbeen</name>
     </author>
@@ -21,7 +21,7 @@
             <category term="Illustrations"/>
             <category term="HERO"/>
 
-        <updated>2022-10-22T12:35:24+02:00</updated>
+        <updated>2022-11-03T11:18:33+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/57/insta002.jpg" alt="" />
@@ -41,14 +41,7 @@
 </div></div>
 <aside class="post__aside">
 <h6>from €12.50 (shipping included)</h6>
-<select id="item-options">
-<option value="1-12.50">1 card for €12.50</option>
-<option value="2-24.00">2 cards for €24.00</option>
-<option value="5-58.00">5 cards for €58.00</option>
-<option value="10-110.00">10 cards for €110.00</option>
-</select>
-<div id="paypal-checkout"> </div>
-</aside>
+<a class="btn buy-button" target="_blank" href="https://onnozone.etsy.com/listing/1317258284" rel="noopener">Buy on Etsy</a></aside>
 <h6>Limited Edition</h6>
 <p>Only 100 prints are produced and each print is hand numbered and signed.</p>
 <h6>Specifications:</h6>
@@ -57,59 +50,7 @@
 <li>printed in full color</li>
 </ul>
 <p>World wide shipping already included in the price.</p>
-<p>
-<script>
-(function(){
-
-  paypal.Buttons({
-    style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
-    createOrder: function(data, actions) {
-
-      item_sku='CARD-005';
-      item_name='Print ms PACIFIC PRINCESS 1975';
-      item_description='Size: 21 x 10 cm, Printed in full color';
-    
-      option = document.getElementById("item-options").value.split("-");
-      quantity = option[0];
-      total_value = option[1];
-      unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
-    
-      return actions.order.create({
-        purchase_units: [{
-          amount: {
-            value: total_value, currency_code: 'EUR',
-            breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}
-          },
-          description: quantity + ' x ' + item_name,
-          items: [{
-            name: item_name,
-            unit_amount: { value: unit_value, currency_code: 'EUR' },
-            quantity: quantity,
-            sku: item_sku,
-            description: item_description,
-            category: 'PHYSICAL_GOODS'
-          }]
-        }]
-      });
-    },
-    onApprove: function (data, actions) {
-      document.getElementById('paypal-checkout').className += ' processing';
-      var pending = true;
-      window.onbeforeunload = function() {
-          return pending ? "PLEASE, stay on this page for the payment processig to be completed!" : null;
-      };
-      return actions.order.capture().then(function(details) {
-        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details));
-        pending = false;
-        location.assign('/order-complete?order=' + details.id);
-      });
-    },
-    onCancel: onFail,
-    onError: onFail
-  }).render('#paypal-checkout');
-})();
-</script>
-</p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -125,7 +66,7 @@
             <category term="Illustrations"/>
             <category term="HERO"/>
 
-        <updated>2022-10-15T14:30:18+02:00</updated>
+        <updated>2022-11-03T11:20:08+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/56/print_rot004.jpg" alt="" />
@@ -148,14 +89,7 @@
 </div></div>
 <aside class="post__aside">
 <h6>from €12.50 (shipping included)</h6>
-<select id="item-options">
-<option value="1-12.50">1 card for €12.50</option>
-<option value="2-24.00">2 cards for €24.00</option>
-<option value="5-58.00">5 cards for €58.00</option>
-<option value="10-110.00">10 cards for €110.00</option>
-</select>
-<div id="paypal-checkout"> </div>
-</aside>
+<a class="btn buy-button" target="_blank" href="https://onnozone.etsy.com/listing/1331225239" rel="noopener">Buy on Etsy</a></aside>
 <h6>Limited Edition</h6>
 <p>Only 100 prints are produced and each print is hand numbered and signed.</p>
 <h6>Specifications:</h6>
@@ -164,59 +98,7 @@
 <li>printed in full color</li>
 </ul>
 <p>World wide shipping already included in the price.</p>
-<p>
-<script>
-(function(){
-
-  paypal.Buttons({
-    style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
-    createOrder: function(data, actions) {
-
-      item_sku='CARD-004';
-      item_name='Print ss ROTTERDAM 1959';
-      item_description='Size: 21 x 10 cm, Printed in full color';
-    
-      option = document.getElementById("item-options").value.split("-");
-      quantity = option[0];
-      total_value = option[1];
-      unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
-    
-      return actions.order.create({
-        purchase_units: [{
-          amount: {
-            value: total_value, currency_code: 'EUR',
-            breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}
-          },
-          description: quantity + ' x ' + item_name,
-          items: [{
-            name: item_name,
-            unit_amount: { value: unit_value, currency_code: 'EUR' },
-            quantity: quantity,
-            sku: item_sku,
-            description: item_description,
-            category: 'PHYSICAL_GOODS'
-          }]
-        }]
-      });
-    },
-    onApprove: function (data, actions) {
-      document.getElementById('paypal-checkout').className += ' processing';
-      var pending = true;
-      window.onbeforeunload = function() {
-          return pending ? "PLEASE, stay on this page for the payment processig to be completed!" : null;
-      };
-      return actions.order.capture().then(function(details) {
-        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details));
-        pending = false;
-        location.assign('/order-complete?order=' + details.id);
-      });
-    },
-    onCancel: onFail,
-    onError: onFail
-  }).render('#paypal-checkout');
-})();
-</script>
-</p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -232,7 +114,7 @@
             <category term="Illustrations"/>
             <category term="HERO"/>
 
-        <updated>2022-10-15T12:03:05+02:00</updated>
+        <updated>2022-11-03T11:22:03+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/55/print_ita004.jpg" alt="" />
@@ -251,14 +133,7 @@
 </div></div>
 <aside class="post__aside">
 <h6>from €12.50 (shipping included)</h6>
-<select id="item-options">
-<option value="1-12.50">1 card for €12.50</option>
-<option value="2-24.00">2 cards for €24.00</option>
-<option value="5-58.00">5 cards for €58.00</option>
-<option value="10-110.00">10 cards for €110.00</option>
-</select>
-<div id="paypal-checkout"> </div>
-</aside>
+<a class="btn buy-button" target="_blank" href="https://onnozone.etsy.com/listing/1317233554" rel="noopener">Buy on Etsy</a></aside>
 <h6>Limited Edition</h6>
 <p>Only 100 prints are produced and each print is hand numbered and signed.</p>
 <h6>Specifications:</h6>
@@ -267,59 +142,7 @@
 <li>printed in full color</li>
 </ul>
 <p>World wide shipping already included in the price.</p>
-<p>
-<script>
-(function(){
-
-  paypal.Buttons({
-    style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
-    createOrder: function(data, actions) {
-
-      item_sku='CARD-003';
-      item_name='Print ms PRINCESS ITALIA 1967';
-      item_description='Size: 21 x 10 cm, Printed in full color';
-    
-      option = document.getElementById("item-options").value.split("-");
-      quantity = option[0];
-      total_value = option[1];
-      unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
-    
-      return actions.order.create({
-        purchase_units: [{
-          amount: {
-            value: total_value, currency_code: 'EUR',
-            breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}
-          },
-          description: quantity + ' x ' + item_name,
-          items: [{
-            name: item_name,
-            unit_amount: { value: unit_value, currency_code: 'EUR' },
-            quantity: quantity,
-            sku: item_sku,
-            description: item_description,
-            category: 'PHYSICAL_GOODS'
-          }]
-        }]
-      });
-    },
-    onApprove: function (data, actions) {
-      document.getElementById('paypal-checkout').className += ' processing';
-      var pending = true;
-      window.onbeforeunload = function() {
-          return pending ? "PLEASE, stay on this page for the payment processig to be completed!" : null;
-      };
-      return actions.order.capture().then(function(details) {
-        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details));
-        pending = false;
-        location.assign('/order-complete?order=' + details.id);
-      });
-    },
-    onCancel: onFail,
-    onError: onFail
-  }).render('#paypal-checkout');
-})();
-</script>
-</p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -335,7 +158,7 @@
             <category term="Illustrations"/>
             <category term="HERO"/>
 
-        <updated>2022-10-15T11:57:29+02:00</updated>
+        <updated>2022-11-03T11:23:34+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/52/print_gal004.jpg" alt="" />
@@ -353,14 +176,7 @@
 </div></div>
 <aside class="post__aside">
 <h6>from €12.50 (shipping included)</h6>
-<select id="item-options">
-<option value="1-12.50">1 card for €12.50</option>
-<option value="2-24.00">2 cards for €24.00</option>
-<option value="5-58.00">5 cards for €58.00</option>
-<option value="10-110.00">10 cards for €110.00</option>
-</select>
-<div id="paypal-checkout"> </div>
-</aside>
+<a class="btn buy-button" target="_blank" href="https://onnozone.etsy.com/listing/1331202109" rel="noopener">Buy on Etsy</a></aside>
 <h6>Limited Edition</h6>
 <p>Only 100 prints are produced and each print is hand numbered and signed.</p>
 <h6>Specifications:</h6>
@@ -369,54 +185,7 @@
 <li>printed in full color</li>
 </ul>
 <p>World wide shipping already included in the price.</p>
-<p>
-<script>
-(function(){
-
-  paypal.Buttons({
-    style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
-    createOrder: function(data, actions) {
-    option = document.getElementById("item-options").value.split("-");
-    quantity = option[0];
-    total_value = option[1];
-    unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
-    
-      return actions.order.create({
-        purchase_units: [{
-          amount: {
-            value: total_value, currency_code: 'EUR',
-            breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}
-          },
-          description: quantity + ' x Print ss GALILEO GALILEI 1963',
-          items: [{
-            name: 'Print ss GALILEO GALILEI 1963',
-            unit_amount: { value: unit_value, currency_code: 'EUR' },
-            quantity: quantity,
-            sku: 'CARD-002',
-            description: 'Size: 21 x 10 cm, Printed in full color',
-            category: 'PHYSICAL_GOODS'
-          }]
-        }]
-      });
-    },
-    onApprove: function (data, actions) {
-      document.getElementById('paypal-checkout').className += ' processing';
-      var pending = true;
-      window.onbeforeunload = function() {
-          return pending ? "PLEASE, stay on this page for the payment processig to be completed!" : null;
-      };
-      return actions.order.capture().then(function(details) {
-        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details));
-        pending = false;
-        location.assign('/order-complete?order=' + details.id);
-      });
-    },
-    onCancel: onFail,
-    onError: onFail
-  }).render('#paypal-checkout');
-})();
-</script>
-</p>
+<p> </p>
             ]]>
         </content>
     </entry>
