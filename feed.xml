@@ -3,7 +3,7 @@
     <title>Onnozone</title>
     <link href="https://onnozone.com/feed.xml" rel="self" />
     <link href="https://onnozone.com" />
-    <updated>2022-11-04T21:43:21+01:00</updated>
+    <updated>2022-11-21T14:10:23+01:00</updated>
     <author>
         <name>Onno Heesbeen</name>
     </author>
@@ -478,7 +478,7 @@
             <category term="Ships"/>
             <category term="Illustrations"/>
 
-        <updated>2022-10-15T11:57:51+02:00</updated>
+        <updated>2022-11-21T14:10:23+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/47/print_amb004.jpg" alt="" />
@@ -496,14 +496,7 @@
 </div></div>
 <aside class="post__aside">
 <h6>from €12.50 (shipping included)</h6>
-<select id="item-options">
-<option value="1-12.50">1 card for €12.50</option>
-<option value="2-24.00">2 cards for €24.00</option>
-<option value="5-58.00">5 cards for €58.00</option>
-<option value="10-110.00">10 cards for €110.00</option>
-</select>
-<div id="paypal-checkout"> </div>
-</aside>
+<a class="btn buy-button" href="https://www.etsy.com/listing/1331197155" target="_blank" rel="noopener noreferrer">Buy on Etsy</a></aside>
 <h6>Specifications:</h6>
 <ul>
 <li>Size: 21 x 10 cm.</li>
@@ -513,53 +506,6 @@
 <p>One of my favorite 90’s cruise ships, being styled after a dolphin by architect Renzo Piano back in the day. Luckily the ship has survived the pandemic shutdown of the cruise industry. After a full refurbishment she will be ready to enter service as the new Ambassador Cruise Line flagship AMBIENCE. </p>
 <p>Shipping will be within two weeks after placing the order.</p>
 <p> </p>
-<p>
-<script>
-(function(){
-  paypal.Buttons({
-    style: { shape: 'pill', layout: 'vertical', label: 'checkout'},
-    createOrder: function(data, actions) {
-      option = document.getElementById("item-options").value.split("-");
-      quantity = option[0];
-      total_value = option[1];
-      unit_value = (parseFloat(total_value) / parseInt(quantity)).toString();
-      
-      return actions.order.create({
-        purchase_units: [{
-          amount: {
-            value: total_value, currency_code: 'EUR',
-            breakdown: { item_total: { value: total_value, currency_code: 'EUR' }}
-          },
-          description: quantity + ' x Print ms Ambience',
-          items: [{
-            name: 'Print ms Ambience',
-            unit_amount: { value: unit_value, currency_code: 'EUR' },
-            quantity: quantity,
-            sku: 'CARD-001',
-            description: 'Size: 21 x 10 cm, Printed in full color',
-            category: 'PHYSICAL_GOODS'
-          }]
-        }]
-      });
-    },
-    onApprove: function (data, actions) {
-      document.getElementById('paypal-checkout').className += ' processing';
-      var pending = true;
-      window.onbeforeunload = function() {
-          return pending ? "PLEASE, stay on this page for the payment processig to be completed!" : null;
-      };
-      return actions.order.capture().then(function(details) {
-        sessionStorage && sessionStorage.setItem(details.id, JSON.stringify(details));
-        pending = false;
-        location.assign('/order-complete?order=' + details.id);
-      });
-    },
-    onCancel: onFail,
-    onError: onFail
-  }).render('#paypal-checkout');
-})();
-</script>
-</p>
             ]]>
         </content>
     </entry>
