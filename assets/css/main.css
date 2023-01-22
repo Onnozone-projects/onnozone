@@ -80,7 +80,7 @@ body {
   letter-spacing: 0;
   line-height: 1.7;
   -ms-scroll-chaining: none;
-      overscroll-behavior: none;
+      /* overscroll-behavior: none; */
 }
 
 a {
