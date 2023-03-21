@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Onnozone</title>
     <link href="https://onnozone.com/feed.xml" rel="self" />
     <link href="https://onnozone.com" />
-    <updated>2023-03-08T19:15:39+01:00</updated>
+    <updated>2023-03-21T17:37:56+01:00</updated>
     <author>
         <name>Onno Heesbeen</name>
     </author>
@@ -16,12 +16,13 @@
         </author>
         <link href="https://onnozone.com/empress-of-canada/"/>
         <id>https://onnozone.com/empress-of-canada/</id>
+        <media:content url="https://onnozone.com/media/posts/61/334090606_572823204792195_4947834466744223575_n-1.png" medium="image" />
             <category term="Ships"/>
             <category term="Ship models"/>
             <category term="HERO"/>
             <category term="Articles"/>
 
-        <updated>2023-03-08T19:11:14+01:00</updated>
+        <updated>2023-03-21T17:37:56+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/61/334090606_572823204792195_4947834466744223575_n-1.png" alt="" />
@@ -30,19 +31,19 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://onnozone.com/media/posts/61/334090606_572823204792195_4947834466744223575_n-1.png" alt="" />
+                    <p><img src="https://onnozone.com/media/posts/61/334090606_572823204792195_4947834466744223575_n-1.png" class="type:primaryImage" alt="" /></p>
                 <div>Did you know that the iconic Carnival funnel livery and logo have an interesting origin story?</div>
 <div> </div>
 <div>It all started with the Canadian Pacific Liner EMPRESS OF CANADA, which entered service in 1961 sporting the traditional buff-colored funnel and a red/white checkered logo.</div>
-<div><figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/61/332329658_5857489314339956_2639532355517580628_n.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/61/responsive/332329658_5857489314339956_2639532355517580628_n-xs.jpg 300w ,https://onnozone.com/media/posts/61/responsive/332329658_5857489314339956_2639532355517580628_n-sm.jpg 480w ,https://onnozone.com/media/posts/61/responsive/332329658_5857489314339956_2639532355517580628_n-md.jpg 768w ,https://onnozone.com/media/posts/61/responsive/332329658_5857489314339956_2639532355517580628_n-xl.jpg 1200w ,https://onnozone.com/media/posts/61/responsive/332329658_5857489314339956_2639532355517580628_n-xxl.jpg 1600w ,https://onnozone.com/media/posts/61/responsive/332329658_5857489314339956_2639532355517580628_n-xxxl.jpg 2560w"  alt="" width="1200" height="800"></figure></div>
+<div><figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/61/332329658_5857489314339956_2639532355517580628_n.jpg" alt="" width="1200" height="800" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/61/responsive/332329658_5857489314339956_2639532355517580628_n-xs.jpg 300w ,https://onnozone.com/media/posts/61/responsive/332329658_5857489314339956_2639532355517580628_n-sm.jpg 480w ,https://onnozone.com/media/posts/61/responsive/332329658_5857489314339956_2639532355517580628_n-md.jpg 768w ,https://onnozone.com/media/posts/61/responsive/332329658_5857489314339956_2639532355517580628_n-xl.jpg 1200w ,https://onnozone.com/media/posts/61/responsive/332329658_5857489314339956_2639532355517580628_n-xxl.jpg 1600w ,https://onnozone.com/media/posts/61/responsive/332329658_5857489314339956_2639532355517580628_n-xxxl.jpg 2560w"></figure></div>
 <div> </div>
 <div>In 1968, Canadian Pacific modernized their corporate identity and logo, and the EMPRESS OF CANADA received this new look as well. The funnel was painted in white and green geometric shapes to reflect the new corporate identity.</div>
 <div> </div>
 <h4>Fast forward to 1972.</h4>
 <div>Carnival Cruises was founded and that year they purchased the old EMPRESS OF CANADA to become their very first ship, the MARDI GRAS. Carnival adapted and evolved the green-toned Canadian Pacific livery the ship came in for their new identity, changing the colors to red, white, and blue.</div>
-<div><figure class="post__image post__image--full"><img loading="lazy"  src="https://onnozone.com/media/posts/61/333236732_1381567335716526_3558005473419401092_n.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/61/responsive/333236732_1381567335716526_3558005473419401092_n-xs.jpg 300w ,https://onnozone.com/media/posts/61/responsive/333236732_1381567335716526_3558005473419401092_n-sm.jpg 480w ,https://onnozone.com/media/posts/61/responsive/333236732_1381567335716526_3558005473419401092_n-md.jpg 768w ,https://onnozone.com/media/posts/61/responsive/333236732_1381567335716526_3558005473419401092_n-xl.jpg 1200w ,https://onnozone.com/media/posts/61/responsive/333236732_1381567335716526_3558005473419401092_n-xxl.jpg 1600w ,https://onnozone.com/media/posts/61/responsive/333236732_1381567335716526_3558005473419401092_n-xxxl.jpg 2560w"  alt="" width="1500" height="700"></figure></div>
+<div><figure class="post__image post__image--full"><img loading="lazy"  src="https://onnozone.com/media/posts/61/333236732_1381567335716526_3558005473419401092_n.jpg" alt="" width="1500" height="700" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/61/responsive/333236732_1381567335716526_3558005473419401092_n-xs.jpg 300w ,https://onnozone.com/media/posts/61/responsive/333236732_1381567335716526_3558005473419401092_n-sm.jpg 480w ,https://onnozone.com/media/posts/61/responsive/333236732_1381567335716526_3558005473419401092_n-md.jpg 768w ,https://onnozone.com/media/posts/61/responsive/333236732_1381567335716526_3558005473419401092_n-xl.jpg 1200w ,https://onnozone.com/media/posts/61/responsive/333236732_1381567335716526_3558005473419401092_n-xxl.jpg 1600w ,https://onnozone.com/media/posts/61/responsive/333236732_1381567335716526_3558005473419401092_n-xxxl.jpg 2560w"></figure></div>
 <div> </div>
-<figure class="post__image post__image--right"><img loading="lazy"  src="https://onnozone.com/media/posts/61/333975741_602412434616376_1955115235406326031_n.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/61/responsive/333975741_602412434616376_1955115235406326031_n-xs.jpg 300w ,https://onnozone.com/media/posts/61/responsive/333975741_602412434616376_1955115235406326031_n-sm.jpg 480w ,https://onnozone.com/media/posts/61/responsive/333975741_602412434616376_1955115235406326031_n-md.jpg 768w ,https://onnozone.com/media/posts/61/responsive/333975741_602412434616376_1955115235406326031_n-xl.jpg 1200w ,https://onnozone.com/media/posts/61/responsive/333975741_602412434616376_1955115235406326031_n-xxl.jpg 1600w ,https://onnozone.com/media/posts/61/responsive/333975741_602412434616376_1955115235406326031_n-xxxl.jpg 2560w"  alt="" width="157" height="235"></figure>
+<figure class="post__image post__image--right"><img loading="lazy"  src="https://onnozone.com/media/posts/61/333975741_602412434616376_1955115235406326031_n.jpg" alt="" width="157" height="235" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/61/responsive/333975741_602412434616376_1955115235406326031_n-xs.jpg 300w ,https://onnozone.com/media/posts/61/responsive/333975741_602412434616376_1955115235406326031_n-sm.jpg 480w ,https://onnozone.com/media/posts/61/responsive/333975741_602412434616376_1955115235406326031_n-md.jpg 768w ,https://onnozone.com/media/posts/61/responsive/333975741_602412434616376_1955115235406326031_n-xl.jpg 1200w ,https://onnozone.com/media/posts/61/responsive/333975741_602412434616376_1955115235406326031_n-xxl.jpg 1600w ,https://onnozone.com/media/posts/61/responsive/333975741_602412434616376_1955115235406326031_n-xxxl.jpg 2560w"></figure>
 <div>The story goes that Carnival literally just repainted the green design into red and bleu, but CP threatened to sue if they did not change it. So the triangle became a half cirkel.</div>
 <div> </div>
 <div>Almost forgot, I have a CP Air bag.</div>
@@ -102,6 +103,7 @@
         </author>
         <link href="https://onnozone.com/renaissance/"/>
         <id>https://onnozone.com/renaissance/</id>
+        <media:content url="https://onnozone.com/media/posts/59/Pre-order-Renaissance-2.JPG" medium="image" />
             <category term="Shop"/>
             <category term="Ships"/>
             <category term="Ship models"/>
@@ -117,7 +119,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://onnozone.com/media/posts/59/Pre-order-Renaissance-2.JPG" alt="" />
+                    <p><img src="https://onnozone.com/media/posts/59/Pre-order-Renaissance-2.JPG" class="type:primaryImage" alt="" /></p>
                 <p>I’m super proud to share my latest model project, <strong>CFC Croisières</strong> placed an order to custom build a series of 1:400 scale models of their<strong> new ship the ms Renaissance</strong>. The last couple of months I have been busy drawing out accurate digital plans, manufacturing and building all the parts that will make up this 54.75cm long model.</p>
 <p>With the first one succesfully finished and the rest of the CFC order in progress I’m happy to announce I will be manufacturing a <strong>small series of 10 models</strong> this spring. To secure one of these models I offer the following pre-order opportunity.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
@@ -327,6 +329,7 @@
         </author>
         <link href="https://onnozone.com/print-rms-queen-elizabeth-2-1969/"/>
         <id>https://onnozone.com/print-rms-queen-elizabeth-2-1969/</id>
+        <media:content url="https://onnozone.com/media/posts/58/print_QE2_004.png" medium="image" />
             <category term="Shop"/>
             <category term="Ships"/>
             <category term="Illustrations"/>
@@ -336,13 +339,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/58/print_QE2_004.png" alt="" />
-                     The QE2, Styled by the famous designer James Gardner, was out of this world. Her space age look&hellip;
+                    The QE2, Styled by the famous designer James Gardner, was out of this world. Her space age look and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://onnozone.com/media/posts/58/print_QE2_004.png" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/58/print_QE2_001.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/58/responsive/print_QE2_001-xs.jpg 300w ,https://onnozone.com/media/posts/58/responsive/print_QE2_001-sm.jpg 480w ,https://onnozone.com/media/posts/58/responsive/print_QE2_001-md.jpg 768w ,https://onnozone.com/media/posts/58/responsive/print_QE2_001-xl.jpg 1200w ,https://onnozone.com/media/posts/58/responsive/print_QE2_001-xxl.jpg 1600w ,https://onnozone.com/media/posts/58/responsive/print_QE2_001-xxxl.jpg 2560w"  alt="" width="1400" height="933"></figure><br>The QE2, Styled by the famous designer James Gardner, was out of this world. Her space age look and interiors were breaking with transatlantic traditions. <br><br>The new Cunard Queen entered service in 1969 and was meant to sail far into the future With later additions and a complete new engine she was able to do so.<br><br>The QE2 fits perfectly in the liner and cruise ship era which I love the most, that's why I choose to draw her as she was designed and built. Besides the styling she had a most interesting and clever paint scheme with khaki colored bulkheads and charcoal davits, giving her a much sleeker profile. </p>
+                    <p><img src="https://onnozone.com/media/posts/58/print_QE2_004.png" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/58/print_QE2_001.jpg" alt="" width="1400" height="933" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/58/responsive/print_QE2_001-xs.jpg 300w ,https://onnozone.com/media/posts/58/responsive/print_QE2_001-sm.jpg 480w ,https://onnozone.com/media/posts/58/responsive/print_QE2_001-md.jpg 768w ,https://onnozone.com/media/posts/58/responsive/print_QE2_001-xl.jpg 1200w ,https://onnozone.com/media/posts/58/responsive/print_QE2_001-xxl.jpg 1600w ,https://onnozone.com/media/posts/58/responsive/print_QE2_001-xxxl.jpg 2560w"></figure><br>The QE2, Styled by the famous designer James Gardner, was out of this world. Her space age look and interiors were breaking with transatlantic traditions. <br><br>The new Cunard Queen entered service in 1969 and was meant to sail far into the future With later additions and a complete new engine she was able to do so.<br><br>The QE2 fits perfectly in the liner and cruise ship era which I love the most, that's why I choose to draw her as she was designed and built. Besides the styling she had a most interesting and clever paint scheme with khaki colored bulkheads and charcoal davits, giving her a much sleeker profile. </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/58/gallery/FB001.jpg" data-size="1400x933"><img loading="lazy" src="https://onnozone.com/media/posts/58/gallery/FB001-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/58/gallery/print_QE2_003.jpg" data-size="1400x933"><img loading="lazy" src="https://onnozone.com/media/posts/58/gallery/print_QE2_003-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
@@ -370,6 +373,7 @@
         </author>
         <link href="https://onnozone.com/print-ms-pacific-princess-1975/"/>
         <id>https://onnozone.com/print-ms-pacific-princess-1975/</id>
+        <media:content url="https://onnozone.com/media/posts/57/insta002.jpg" medium="image" />
             <category term="Shop"/>
             <category term="Ships"/>
             <category term="Illustrations"/>
@@ -378,13 +382,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/57/insta002.jpg" alt="" />
-                     In 1975 Princess Cruises acquired the PACIFIC PRINCESS (former SEA VENTURE). The ship soon would get cult status&hellip;
+                    In 1975 Princess Cruises acquired the PACIFIC PRINCESS (former SEA VENTURE). The ship soon would get cult status when&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://onnozone.com/media/posts/57/insta002.jpg" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/57/fb001.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/57/responsive/fb001-xs.jpg 300w ,https://onnozone.com/media/posts/57/responsive/fb001-sm.jpg 480w ,https://onnozone.com/media/posts/57/responsive/fb001-md.jpg 768w ,https://onnozone.com/media/posts/57/responsive/fb001-xl.jpg 1200w ,https://onnozone.com/media/posts/57/responsive/fb001-xxl.jpg 1600w ,https://onnozone.com/media/posts/57/responsive/fb001-xxxl.jpg 2560w"  alt="" width="1400" height="933"></figure><br>In 1975 Princess Cruises acquired the PACIFIC PRINCESS (former SEA VENTURE). <br>The ship soon would get cult status when she and many famous actors starred in the TV show “The Love Boat”.</p>
+                    <p><img src="https://onnozone.com/media/posts/57/insta002.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/57/fb001.jpg" alt="" width="1400" height="933" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/57/responsive/fb001-xs.jpg 300w ,https://onnozone.com/media/posts/57/responsive/fb001-sm.jpg 480w ,https://onnozone.com/media/posts/57/responsive/fb001-md.jpg 768w ,https://onnozone.com/media/posts/57/responsive/fb001-xl.jpg 1200w ,https://onnozone.com/media/posts/57/responsive/fb001-xxl.jpg 1600w ,https://onnozone.com/media/posts/57/responsive/fb001-xxxl.jpg 2560w"></figure><br>In 1975 Princess Cruises acquired the PACIFIC PRINCESS (former SEA VENTURE). <br>The ship soon would get cult status when she and many famous actors starred in the TV show “The Love Boat”.</p>
 <p class="align-center"><em>“Come aboard, we're expecting you.”</em></p>
 <p>Its wonderful 70’s style design always fascinated me and it was a lot of fun drawing all the curves that make up this iconic ship. </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
@@ -414,6 +418,7 @@
         </author>
         <link href="https://onnozone.com/print-ms-rotterdam-1959/"/>
         <id>https://onnozone.com/print-ms-rotterdam-1959/</id>
+        <media:content url="https://onnozone.com/media/posts/56/print_rot004.jpg" medium="image" />
             <category term="Shop"/>
             <category term="Ships"/>
             <category term="Illustrations"/>
@@ -422,12 +427,12 @@
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/56/print_rot004.jpg" alt="" />
-                     Illustrating this icon of Dutch engineering and design of the 1950’s was a real privilege. For years the&hellip;
+                    Illustrating this icon of Dutch engineering and design of the 1950’s was a real privilege. For years the ss&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://onnozone.com/media/posts/56/print_rot004.jpg" alt="" />
+                    <p><img src="https://onnozone.com/media/posts/56/print_rot004.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/56/gallery/print_rot001-2.jpg" data-size="1200x800"><img loading="lazy" src="https://onnozone.com/media/posts/56/gallery/print_rot001-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
@@ -461,6 +466,7 @@
         </author>
         <link href="https://onnozone.com/print-ms-princess-italia-1967/"/>
         <id>https://onnozone.com/print-ms-princess-italia-1967/</id>
+        <media:content url="https://onnozone.com/media/posts/55/print_ita004.jpg" medium="image" />
             <category term="Shop"/>
             <category term="Ships"/>
             <category term="Illustrations"/>
@@ -474,8 +480,8 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://onnozone.com/media/posts/55/print_ita004.jpg" alt="" />
-                <figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/55/print_ita001-2.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/55/responsive/print_ita001-2-xs.jpg 300w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-sm.jpg 480w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-md.jpg 768w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-xl.jpg 1200w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-xxl.jpg 1600w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-xxxl.jpg 2560w"  alt="" width="1200" height="800"></figure>Appreciating the design of this Italian beauty, it was a lot of fun drawing her lines and making this detailed profile artwork.</p>
+                    <p><img src="https://onnozone.com/media/posts/55/print_ita004.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://onnozone.com/media/posts/55/print_ita001-2.jpg" alt="" width="1200" height="800" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/55/responsive/print_ita001-2-xs.jpg 300w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-sm.jpg 480w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-md.jpg 768w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-xl.jpg 1200w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-xxl.jpg 1600w ,https://onnozone.com/media/posts/55/responsive/print_ita001-2-xxxl.jpg 2560w"></figure>Appreciating the design of this Italian beauty, it was a lot of fun drawing her lines and making this detailed profile artwork.</p>
 <p>The Italia was one of the first purpose built cruise ships and styled like a yacht for the jetset with extravagant Italian designed interiors.</p>
 <p>She had a long and fascinating career sailing for different operators like the Costa Line and Princess Cruises. </p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
@@ -504,6 +510,7 @@
         </author>
         <link href="https://onnozone.com/print-ss-galileo-galilei-1963/"/>
         <id>https://onnozone.com/print-ss-galileo-galilei-1963/</id>
+        <media:content url="https://onnozone.com/media/posts/52/print_gal004.jpg" medium="image" />
             <category term="Shop"/>
             <category term="Ships"/>
             <category term="Illustrations"/>
@@ -512,13 +519,13 @@
             <summary>
                 <![CDATA[
                         <img src="https://onnozone.com/media/posts/52/print_gal004.jpg" alt="" />
-                     Detailed profile illustration of the elegant Lloyd Triestino liner. The GALILEO GALILEI (named after the famous astronomer) entered&hellip;
+                    Detailed profile illustration of the elegant Lloyd Triestino liner. The GALILEO GALILEI (named after the famous astronomer) entered service&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://onnozone.com/media/posts/52/print_gal004.jpg" alt="" />
-                <figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/52/print_gal001.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/52/responsive/print_gal001-xs.jpg 300w ,https://onnozone.com/media/posts/52/responsive/print_gal001-sm.jpg 480w ,https://onnozone.com/media/posts/52/responsive/print_gal001-md.jpg 768w ,https://onnozone.com/media/posts/52/responsive/print_gal001-xl.jpg 1200w ,https://onnozone.com/media/posts/52/responsive/print_gal001-xxl.jpg 1600w ,https://onnozone.com/media/posts/52/responsive/print_gal001-xxxl.jpg 2560w"  alt="" width="1200" height="800"></figure>
+                    <p><img src="https://onnozone.com/media/posts/52/print_gal004.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/52/print_gal001.jpg" alt="" width="1200" height="800" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/52/responsive/print_gal001-xs.jpg 300w ,https://onnozone.com/media/posts/52/responsive/print_gal001-sm.jpg 480w ,https://onnozone.com/media/posts/52/responsive/print_gal001-md.jpg 768w ,https://onnozone.com/media/posts/52/responsive/print_gal001-xl.jpg 1200w ,https://onnozone.com/media/posts/52/responsive/print_gal001-xxl.jpg 1600w ,https://onnozone.com/media/posts/52/responsive/print_gal001-xxxl.jpg 2560w"></figure>
 <p>Detailed profile illustration of the elegant Lloyd Triestino liner.<br>The GALILEO GALILEI (named after the famous astronomer) entered service in 1963 and is a perfect example of Italian design and beauty.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/52/gallery/print_gal002.jpg" data-size="1200x800"><img loading="lazy" src="https://onnozone.com/media/posts/52/gallery/print_gal002-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
@@ -546,6 +553,7 @@
         </author>
         <link href="https://onnozone.com/msc-rhapsody-arrival-at-ijmuiden/"/>
         <id>https://onnozone.com/msc-rhapsody-arrival-at-ijmuiden/</id>
+        <media:content url="https://onnozone.com/media/posts/51/FS-00059-011bew.jpg" medium="image" />
             <category term="Videos"/>
             <category term="Ships"/>
             <category term="Photography"/>
@@ -560,7 +568,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://onnozone.com/media/posts/51/FS-00059-011bew.jpg" alt="" />
+                    <p><img src="https://onnozone.com/media/posts/51/FS-00059-011bew.jpg" class="type:primaryImage" alt="" /></p>
                 <p>When I learned the MSC RHAPSODY was coming for a visit to IJmuiden my friend Jochen and I hit the road for a photo trip that day. Being an admirer of the 1970’s design of cruise ships I simply had to go see the former CUNARD PRINCESS.</p>
 
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
@@ -592,6 +600,7 @@
         </author>
         <link href="https://onnozone.com/7th-ship-to-bear-the-name-rotterdam/"/>
         <id>https://onnozone.com/7th-ship-to-bear-the-name-rotterdam/</id>
+        <media:content url="https://onnozone.com/media/posts/50/bew-IMG_6038-FB.jpg" medium="image" />
             <category term="Videos"/>
             <category term="Photography"/>
             <category term="Articles"/>
@@ -606,7 +615,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://onnozone.com/media/posts/50/bew-IMG_6038-FB.jpg" alt="" />
+                    <p><img src="https://onnozone.com/media/posts/50/bew-IMG_6038-FB.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Lately It has been an interesting periode for me photographing ships.</p>
 
 <p>The subject in this photo article is a good example of that. During my years of photography I saw ships decommissioned and names reused.  Afterall that's the inherent nature of the business.</p>
@@ -629,7 +638,7 @@
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/50/gallery/04.jpg" data-size="1400x933"><img loading="lazy" src="https://onnozone.com/media/posts/50/gallery/04-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/50/gallery/01.jpg" data-size="1400x933"><img loading="lazy" src="https://onnozone.com/media/posts/50/gallery/01-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
-<figure class="post__image post__image--full"><img loading="lazy"  src="https://onnozone.com/media/posts/50/IMG_6635bew2.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/50/responsive/IMG_6635bew2-xs.jpg 300w ,https://onnozone.com/media/posts/50/responsive/IMG_6635bew2-sm.jpg 480w ,https://onnozone.com/media/posts/50/responsive/IMG_6635bew2-md.jpg 768w ,https://onnozone.com/media/posts/50/responsive/IMG_6635bew2-xl.jpg 1200w ,https://onnozone.com/media/posts/50/responsive/IMG_6635bew2-xxl.jpg 1600w ,https://onnozone.com/media/posts/50/responsive/IMG_6635bew2-xxxl.jpg 2560w"  alt="" width="1920" height="629"></figure>
+<figure class="post__image post__image--full"><img loading="lazy"  src="https://onnozone.com/media/posts/50/IMG_6635bew2.jpg" alt="" width="1920" height="629" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/50/responsive/IMG_6635bew2-xs.jpg 300w ,https://onnozone.com/media/posts/50/responsive/IMG_6635bew2-sm.jpg 480w ,https://onnozone.com/media/posts/50/responsive/IMG_6635bew2-md.jpg 768w ,https://onnozone.com/media/posts/50/responsive/IMG_6635bew2-xl.jpg 1200w ,https://onnozone.com/media/posts/50/responsive/IMG_6635bew2-xxl.jpg 1600w ,https://onnozone.com/media/posts/50/responsive/IMG_6635bew2-xxxl.jpg 2560w"></figure>
 <blockquote>
 <p>The new ms Rotterdam passing her "grandmother" ss Rotterdam.</p>
 </blockquote>
@@ -653,6 +662,7 @@
         </author>
         <link href="https://onnozone.com/artania-a-real-royal-princess/"/>
         <id>https://onnozone.com/artania-a-real-royal-princess/</id>
+        <media:content url="https://onnozone.com/media/posts/49/IMG_2919bew.jpg" medium="image" />
             <category term="Ships"/>
             <category term="Photography"/>
             <category term="Articles"/>
@@ -667,11 +677,11 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://onnozone.com/media/posts/49/IMG_2919bew.jpg" alt="" />
+                    <p><img src="https://onnozone.com/media/posts/49/IMG_2919bew.jpg" class="type:primaryImage" alt="" /></p>
                 <p>One of those ships that always excites me to photograph.</p>
 
 <p>ms Artania (currently cruising for Phoenix Reisen) entered service in 1984 as the Royal Princess. Named by none other than Diana, Princess of Wales the ship had a good start in life. Ordered by Princess Cruises and built at Wärtsilä Helsinki Shipyard in Finland, the ship was a true eye catcher and trendsetter for the cruise industry at the time.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/49/artania_royalprincess_01-2.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/49/responsive/artania_royalprincess_01-2-xs.jpg 300w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_01-2-sm.jpg 480w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_01-2-md.jpg 768w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_01-2-xl.jpg 1200w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_01-2-xxl.jpg 1600w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_01-2-xxxl.jpg 2560w"  alt="" width="1400" height="879"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/49/artania_royalprincess_01-2.jpg" alt="" width="1400" height="879" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/49/responsive/artania_royalprincess_01-2-xs.jpg 300w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_01-2-sm.jpg 480w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_01-2-md.jpg 768w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_01-2-xl.jpg 1200w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_01-2-xxl.jpg 1600w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_01-2-xxxl.jpg 2560w"></figure>
 <blockquote>
 <p>Christened by Diana, Princess of Wales</p>
 </blockquote>
@@ -688,7 +698,7 @@
 <blockquote>
 <p><span style="color: var(--text-editor-body-color); font-family: var(--font-base); font-size: inherit; font-weight: var(--font-weight-normal);">The first cruise ship to have only outside passenger cabins.</span></p>
 </blockquote>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/49/artania_royalprincess_11-2.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/49/responsive/artania_royalprincess_11-2-xs.jpg 300w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_11-2-sm.jpg 480w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_11-2-md.jpg 768w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_11-2-xl.jpg 1200w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_11-2-xxl.jpg 1600w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_11-2-xxxl.jpg 2560w"  alt="" width="1400" height="933"></figure>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/49/artania_royalprincess_11-2.jpg" alt="" width="1400" height="933" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/49/responsive/artania_royalprincess_11-2-xs.jpg 300w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_11-2-sm.jpg 480w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_11-2-md.jpg 768w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_11-2-xl.jpg 1200w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_11-2-xxl.jpg 1600w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_11-2-xxxl.jpg 2560w"></figure>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/49/gallery/artania_royalprincess_10-2.jpg" data-size="1400x933"><img loading="lazy" src="https://onnozone.com/media/posts/49/gallery/artania_royalprincess_10-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/49/gallery/artania_royalprincess_9-2.jpg" data-size="1400x933"><img loading="lazy" src="https://onnozone.com/media/posts/49/gallery/artania_royalprincess_9-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
@@ -697,7 +707,7 @@
 <blockquote>
 <p>Turning heads in any port she visits.</p>
 </blockquote>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/49/artania_royalprincess_8.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/49/responsive/artania_royalprincess_8-xs.jpg 300w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_8-sm.jpg 480w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_8-md.jpg 768w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_8-xl.jpg 1200w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_8-xxl.jpg 1600w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_8-xxxl.jpg 2560w"  alt="" width="1400" height="933"></figure>In 2011 Artemis left the P&amp;O fleet and began a new chapter in her life cruising as Artania for Phoenix Reisen. besides a fresh new Phoenix livery her exterior design also had some minor cosmetic changes. Nonetheless the ship remains the eye catcher she always was and the last couple of years I enjoyed several more photoshoots in diferent ports.</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/49/artania_royalprincess_8.jpg" alt="" width="1400" height="933" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/49/responsive/artania_royalprincess_8-xs.jpg 300w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_8-sm.jpg 480w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_8-md.jpg 768w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_8-xl.jpg 1200w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_8-xxl.jpg 1600w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_8-xxxl.jpg 2560w"></figure>In 2011 Artemis left the P&amp;O fleet and began a new chapter in her life cruising as Artania for Phoenix Reisen. besides a fresh new Phoenix livery her exterior design also had some minor cosmetic changes. Nonetheless the ship remains the eye catcher she always was and the last couple of years I enjoyed several more photoshoots in diferent ports.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/49/gallery/artania_royalprincess_15.jpg" data-size="933x1400"><img loading="lazy" src="https://onnozone.com/media/posts/49/gallery/artania_royalprincess_15-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/49/gallery/artania_royalprincess_13.jpg" data-size="933x1400"><img loading="lazy" src="https://onnozone.com/media/posts/49/gallery/artania_royalprincess_13-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
@@ -705,7 +715,7 @@
 <figure class="gallery__item"><a href="https://onnozone.com/media/posts/49/gallery/artania_royalprincess_14.JPG" data-size="933x1400"><img loading="lazy" src="https://onnozone.com/media/posts/49/gallery/artania_royalprincess_14-thumbnail.JPG" alt="" width="768" height="1152"></a></figure>
 </div></div>
 <p>Artania has successfully entered the third act of her career. I have some upcoming projects involving the ship and I hope I will have some more photo opportunities and a close encounter with this classy lady in the near future.</p>
-<figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/49/artania_royalprincess_16.jpg" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/49/responsive/artania_royalprincess_16-xs.jpg 300w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_16-sm.jpg 480w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_16-md.jpg 768w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_16-xl.jpg 1200w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_16-xxl.jpg 1600w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_16-xxxl.jpg 2560w"  alt="" width="1400" height="933"></figure>As always thank you for visiting my website and feel free to share this article on your favorite social media platform by clicking on the share icon in the bottom right corner. </p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://onnozone.com/media/posts/49/artania_royalprincess_16.jpg" alt="" width="1400" height="933" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://onnozone.com/media/posts/49/responsive/artania_royalprincess_16-xs.jpg 300w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_16-sm.jpg 480w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_16-md.jpg 768w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_16-xl.jpg 1200w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_16-xxl.jpg 1600w ,https://onnozone.com/media/posts/49/responsive/artania_royalprincess_16-xxxl.jpg 2560w"></figure>As always thank you for visiting my website and feel free to share this article on your favorite social media platform by clicking on the share icon in the bottom right corner. </p>
 <p> </p>
             ]]>
         </content>
